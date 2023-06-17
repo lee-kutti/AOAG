@@ -1,0 +1,14 @@
+{'Simpsonwp_memdump_28052023': 'Simpsonwp_memdump_28052023_heapdump.out', 'sina_memdump_27052023': 'sina_memdump_27052023_heapdump.out', 'tencent_memdump_27052023': 'tencent_memdump_27052023_heapdump.out', 'strategy_memdump_26052023': 'strategy_memdump_26052023_heapdump.out', 'pencil_memdump_28052023': 'pencil_memdump_28052023_heapdump.out'}
+Starting Graph with Simpsonwp_memdump_28052023_heapdump.out
+graph Simpsonwp_memdump_28052023_heapdump.out completed successfully
+Starting Graph with sina_memdump_27052023_heapdump.out
+graph sina_memdump_27052023_heapdump.out completed successfully
+Starting Graph with tencent_memdump_27052023_heapdump.out
+Exception in tencent_memdump_27052023_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with strategy_memdump_26052023_heapdump.out
+graph strategy_memdump_26052023_heapdump.out completed successfully
+Starting Graph with pencil_memdump_28052023_heapdump.out
+graph pencil_memdump_28052023_heapdump.out completed successfully
+
+
+

@@ -1,0 +1,20 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            // "args" : ["Graph","/home/kutti/KLTN/MemDumps/benign/networld_memdump_24052023", "/home/kutti/KLTN/HeapDumps/benign/networld_memdump_24052023_heapdump.out", "/home/kutti/KLTN/Graphs/benign/networld_memdump_24052023_heapdump_graph.dot"],
+            "args" : ["/home/kutti/KLTN/MemDumps/benign/networld_memdump_24052023", "HeapDump"],
+            // "args" : ["/home/kutti/KLTN/MemDumps/benign/shoppinglst_memdump_19052023", "Heap", "decodeObject", "0x12c400b0"],l
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

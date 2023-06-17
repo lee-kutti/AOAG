@@ -1,0 +1,320 @@
+Android Object Allocation Graph
+Object Array 0x12c407c0
+java.lang.Integer 0x703fd878
+String - '3A8F435DB7E15F1E39259173C2ADE9F3' 0x131c7138
+String - '120363140397535499@g.us' 0x131c8898
+java.lang.Long 0x131c88c0
+String - 'phash' 0x12d225d0
+String - 'participant' 0x12d26c00
+String - 'edit' 0x12d2aa60
+String - 'msgid' 0x14c244e8
+String - 'smid' 0x70742460
+java.lang.Long 0x7076f368
+String - 'timestamp' 0x704ad160
+String - 'count' 0x704a0b28
+String - 'remote_chat_jid' 0x14c276d0
+String - 'remoteJid' 0x14c275b0
+String - 'counter_abuse_token' 0x14c27908
+Object Array 0x131c8910
+android.util.ArrayMap 0x12c40768
+Primitive Array [I is [3108362, 3534069, 55126294, 94851343, 104192092, 106629502, 767422259, 934812023, 1280507103, 1466041469] 0x12c40788
+android.util.ArrayMap 0x131c87e8
+Primitive Array [I is [3108362, 3534069, 55126294, 94851343, 104192092, 106629502, 767422259, 934812023, 1280507103, 1466041469, 0, 0] 0x131c88d0
+android.os.Bundle 0x12c40750
+java.lang.BootClassLoader 0x7076ca38
+android.os.Bundle 0x131c87d0
+
+
+
+Android Object Allocation Graph
+
+
+
+Android Object Allocation Graph
+java.util.HashMap$Node 0x13340f40
+String - '3A8F435DB7E15F1E39259173C2ADE9F3' 0x1331e610
+String - 'key_id' 0x704a6020
+Object Array 0x13341240
+java.lang.Integer 0x703fd878
+java.lang.Long 0x7076f368
+java.lang.Integer 0x7076f2d8
+java.lang.Long 0x70420a70
+java.lang.Long 0x70420a40
+java.lang.Long 0x703fc628
+java.lang.Long 0x13341050
+java.lang.Byte 0x703fc6b8
+String - "I'd" 'like' 'to' 'make' 'an' 'appointment' 'for' '8am' 'at' '34' 'Hung' 'Vuong' 'boulevard,' 'Ben' 'Nghe' 'ward,' 'Tan' 'Binh' 'District,' 'Da' 'Nang' 'city.' 0x1331df80
+Object Array 0x1334ad50
+java.lang.Integer 0x703fd898
+java.lang.Long 0x1334aba8
+String - '4' 0x1334ac28
+String - '1' 0x70482fc8
+Object Array 0x13357f88
+java.lang.Long 0x70420c10
+String - '4FF2788AB194591E2CE24D4D116AC19E' 0x13656138
+java.lang.Long 0x13357c98
+java.lang.Byte 0x7042ea80
+String - '4' 0x13357e38
+java.util.HashMap$Node 0x13359620
+String - 'revoked_key_id' 0x136d5708
+Object Array 0x133597d0
+java.lang.Long 0x13359650
+com.whatsapp.jobqueue.job.SendE2EMessageJob 0x148c2630
+X.1XC 0x1331e658
+java.lang.Object 0x12e24188
+java.lang.Object 0x12d3cff8
+org.whispersystems.jobqueue.JobParameters 0x148c2a30
+String - '2:A41Fc9ya' 0x148c2558
+java.util.HashMap 0x148c2a50
+String - '120363140397535499@g.us' 0x148c2b08
+java.util.HashSet 0x148c2b30
+String - '1:yKwGFxD4' 0x14c2d778
+X.1rr 0x137ef3a8
+java.lang.Object 0x13385ce8
+java.lang.Object 0x13385d00
+X.2pA 0x12e8b5a8
+X.2hj 0x12e06e00
+java.lang.Object 0x12e0a380
+java.lang.Object 0x12e0b090
+java.lang.Object 0x12e0ef10
+java.lang.Object 0x12e82788
+java.lang.Object 0x12e846a8
+X.2G0 0x12e85bc8
+java.lang.Object 0x12e85c00
+java.lang.Object 0x12e98e58
+java.lang.Object 0x12e98f00
+java.lang.Object 0x12e99aa8
+java.lang.Object 0x14edc6a8
+java.lang.Object 0x14edc6b8
+java.lang.Object 0x12d3ce90
+java.lang.Object 0x12dec068
+java.lang.Object 0x12e211c0
+X.2tC 0x12e24200
+java.lang.Object 0x12e24268
+X.2hl 0x12e1f100
+java.lang.Object 0x12eaaa10
+X.2hb 0x12dec1a0
+java.lang.Object 0x12e27ca8
+java.lang.Object 0x12e37088
+X.2eu 0x12e24478
+java.lang.Object 0x12e209b0
+java.lang.Object 0x12e3c748
+java.lang.Object 0x12e242a8
+X.1II 0x12dec1e8
+java.lang.Object 0x12e33050
+java.lang.Object 0x12e27a60
+java.lang.Object 0x12eacff0
+java.lang.Object 0x13b1fff8
+java.lang.Object 0x12e1bd08
+java.lang.Object 0x12e37558
+java.lang.Object 0x12e3e578
+X.2SQ 0x13500898
+java.lang.Object 0x148c0d20
+Object Array 0x13381ff8
+java.lang.Boolean 0x703f5af8
+java.io.ObjectStreamClass 0x14c36b68
+String - 'Ljava/util/HashMap;' 0x14c36e60
+String - '[B' 0x7049d490
+String - 'Ljava/lang/String;' 0x70490a48
+String - 'Ljava/lang/Integer;' 0x704909b0
+String - 'Ljava/util/HashSet;' 0x14c36fc8
+String - 'LX/1rr;' 0x14c37010
+java.io.ObjectStreamClass 0x14c37028
+String - 'Lorg/whispersystems/jobqueue/JobParameters;' 0x14c38620
+java.util.LinkedList 0x148c27a8
+String - '120363140397535499@g.us' 0x148c2850
+com.whatsapp.jobqueue.requirement.ChatConnectionRequirement 0x148c2878
+java.io.ObjectStreamClass 0x14c386f8
+String - 'Ljava/util/List;' 0x14c38890
+java.io.ObjectStreamClass 0x14c38a00
+java.io.ObjectStreamClass 0x14c38ab8
+java.io.ObjectStreamClass 0x14c38c08
+java.io.ObjectStreamClass 0x14c38d70
+String - 'Ljava/lang/Boolean;' 0x14c38ec0
+Primitive Array [B is [10, 116, 73, 39, 100, 32, 108, 105, 107, 101, 32, 116, 111, 32, 109, 97, 107, 101, 32, 97, 110, 32, 97, 112, 112, 111, 105, 110, 116, 109, 101, 110, 116, 32, 102, 111, 114, 32, 56, 97, 109, 32, 97, 116, 32, 51, 52, 32, 72, 117, 110, 103, 32, 86, 117, 111, 110, 103, 32, 98, 111, 117, 108, 101, 118, 97, 114, 100, 44, 32, 66, 101, 110, 32, 78, 103, 104, 101, 32, 119, 97, 114, 100, 44, 32, 84, 97, 110, 32, 66, 105, 110, 104, 32, 68, 105, 115, 116, 114, 105, 99, 116, 44, 32, 68, 97, 32, 32, 78, 97, 110, 103, 32, 99, 105, 116, 121, 46] 0x13382430
+com.whatsapp.jobqueue.requirement.AxolotlMultiDeviceSenderKeyRequirement 0x148c28a0
+String - '120363140397535499@g.us' 0x148c2998
+java.util.HashSet 0x148c29c0
+java.io.ObjectStreamClass 0x14bc9e78
+java.io.ObjectStreamClass 0x14ec01c0
+java.io.ObjectStreamClass 0x14ec0918
+java.io.ObjectStreamClass 0x14ec0978
+java.io.ObjectStreamClass 0x14c3f5f0
+java.io.ObjectStreamClass 0x14c3fbb0
+String - 'NONE' 0x70492058
+java.lang.Object 0x14c04388
+X.2SQ 0x13385d48
+java.lang.Object 0x148c2900
+Object Array 0x133820b0
+Object Array 0x13382260
+Object Array 0x147490a8
+java.lang.Long 0x14748da8
+String - '84854238434@s.whatsapp.net' 0x14748e70
+String - '120363140397535499@g.us' 0x14748f30
+java.util.HashMap$Node 0x14749238
+Object Array 0x14749318
+Object Array 0x1474a080
+java.lang.Integer 0x7076f348
+String - '4' 0x14749f58
+Object Array 0x14781b58
+String - '84854238434' 0x12dea870
+String - '0' 0x73688d28
+String - '120363140397535499@g.us' 0x14781568
+Object Array 0x133595d8
+java.util.HashMap$Node 0x13359608
+java.util.HashMap$Node 0x13359638
+java.util.HashMap$Node 0x13359660
+Object Array 0x133807c8
+Object Array 0x13381278
+java.util.concurrent.SynchronousQueue$TransferStack$SNode 0x134803c0
+java.util.concurrent.SynchronousQueue$TransferStack$SNode 0x14700250
+java.util.LinkedList$Node 0x148c2a18
+java.util.LinkedList$Node 0x148c2888
+Object Array 0x14749250
+java.util.HashMap$Node 0x14748dc8
+java.util.HashMap$Node 0x14749208
+java.util.ArrayList 0x14781b40
+java.util.HashMap 0x133595b0
+java.util.HashMap$KeySet 0x133597f0
+java.util.LinkedList$ListItr 0x13385d10
+java.util.LinkedList$ListItr 0x13387330
+java.util.LinkedList$ListItr 0x13480048
+java.util.HashMap 0x14748d80
+android.database.sqlite.SQLiteConnection$Operation 0x1522e340
+android.content.ContentValues 0x133595a0
+java.util.HashMap$KeyIterator 0x13359800
+
+
+
+Android Object Allocation Graph
+here
+android.os.Bundle 0x12c405f0
+android.util.ArrayMap 0x12c40608
+Primitive Array [I is [1304750351] 0x12c40628
+Object Array 0x12c40638
+android.os.Bundle 0x12c40650
+android.util.ArrayMap 0x12c40668
+Primitive Array [I is [1304750351] 0x12c40688
+Object Array 0x12c40698
+android.os.Bundle 0x12c406b0
+android.util.ArrayMap 0x12c406c8
+Primitive Array [I is [1304750351] 0x12c406e8
+Object Array 0x12c406f8
+android.os.Message 0x12c40710
+java.lang.Object 0x13500880
+android.os.Message 0x135da418
+java.lang.Object 0x14701d10
+android.os.Bundle 0x12c40750
+android.util.ArrayMap 0x12c40768
+Primitive Array [I is [3108362, 3534069, 55126294, 94851343, 104192092, 106629502, 767422259, 934812023, 1280507103, 1466041469] 0x12c40788
+Object Array 0x12c407c0
+String - '3A8F435DB7E15F1E39259173C2ADE9F3' 0x131c7138
+String - '120363140397535499@g.us' 0x131c8898
+java.lang.Long 0x131c88c0
+String - 'phash' 0x12d225d0
+String - 'participant' 0x12d26c00
+String - 'edit' 0x12d2aa60
+String - 'msgid' 0x14c244e8
+String - 'smid' 0x70742460
+java.lang.Long 0x7076f368
+String - 'timestamp' 0x704ad160
+String - 'count' 0x704a0b28
+String - 'remote_chat_jid' 0x14c276d0
+String - 'remoteJid' 0x14c275b0
+String - 'counter_abuse_token' 0x14c27908
+android.os.Bundle 0x12c40820
+android.util.ArrayMap 0x12c40838
+Primitive Array [I is [3108362, 3534069, 55126294, 94851343, 104192092, 106629502, 767422259, 934812023, 1280507103, 1466041469] 0x12c40858
+Object Array 0x12c40890
+String - '7' 0x706004c0
+java.lang.Long 0x131d4c70
+
+
+
+Android Object Allocation Graph
+here
+Primitive Array [C is ['\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131cc688
+String - '120363140397535499@g.us' 0x131cc708
+java.lang.StringBuilder 0x131cc730
+Primitive Array [C is ['J', '\x00', 'i', '\x00', 'd', '\x00', ':', '\x00', ' ', '\x00', '1', '\x00', '2', '\x00', '0', '\x00', '3', '\x00', '6', '\x00', '3', '\x00', '1', '\x00', '4', '\x00', '0', '\x00', '3', '\x00', '9', '\x00', '7', '\x00', '5', '\x00', '3', '\x00', '5', '\x00', '4', '\x00', '9', '\x00', '9', '\x00', '@', '\x00', 'g', '\x00', '.', '\x00', 'u', '\x00', 's', '\x00', ' ', '\x00', 'i', '\x00', 's', '\x00', ' ', '\x00', 'n', '\x00', 'o', '\x00', 't', '\x00', ' ', '\x00', 'p', '\x00', 'r', '\x00', 'o', '\x00', 't', '\x00', 'o', '\x00', 'c', '\x00', 'o', '\x00', 'l', '\x00', ' ', '\x00', 'c', '\x00', 'o', '\x00', 'm', '\x00', 'p', '\x00', 'l', '\x00', 'i', '\x00', 'a', '\x00', 'n', '\x00', 't', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131cc898
+Primitive Array [C is ['J', '\x00', 'i', '\x00', 'd', '\x00', ':', '\x00', ' ', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131cc740
+java.lang.StringBuilder 0x131cc778
+Primitive Array [C is ['1', '\x00', '2', '\x00', '0', '\x00', '3', '\x00', '6', '\x00', '3', '\x00', '1', '\x00', '4', '\x00', '0', '\x00', '3', '\x00', '9', '\x00', '7', '\x00', '5', '\x00', '3', '\x00', '5', '\x00', '4', '\x00', '9', '\x00', '9', '\x00', '@', '\x00', 'g', '\x00', '.', '\x00', 'u', '\x00', 's', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131cc7b8
+Primitive Array [C is ['\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131cc788
+String - '120363140397535499@g.us' 0x131cc808
+Primitive Array [C is ['J', '\x00', 'i', '\x00', 'd', '\x00', ':', '\x00', ' ', '\x00', '1', '\x00', '2', '\x00', '0', '\x00', '3', '\x00', '6', '\x00', '3', '\x00', '1', '\x00', '4', '\x00', '0', '\x00', '3', '\x00', '9', '\x00', '7', '\x00', '5', '\x00', '3', '\x00', '5', '\x00', '4', '\x00', '9', '\x00', '9', '\x00', '@', '\x00', 'g', '\x00', '.', '\x00', 'u', '\x00', 's', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131cc830
+String - 'Jid:' '120363140397535499@g.us' 'is' 'not' 'protocol' 'compliant' 0x131cc958
+java.lang.StringBuilder 0x131cc9a0
+Primitive Array [C is ['T', '\x00', 'o', '\x00', 'k', '\x00', 'e', '\x00', 'n', '\x00', ' ', '\x00', 'w', '\x00', 'a', '\x00', 's', '\x00', ' ', '\x00', 'n', '\x00', 'u', '\x00', 'l', '\x00', 'l', '\x00', ' ', '\x00', 'f', '\x00', 'o', '\x00', 'r', '\x00', ' ', '\x00', 's', '\x00', 'i', '\x00', 'n', '\x00', 'g', '\x00', 'l', '\x00', 'e', '\x00', 'b', '\x00', 'y', '\x00', 't', '\x00', 'e', '\x00', ' ', '\x00', 'i', '\x00', 'd', '\x00', 'x', '\x00', ':', '\x00', ' ', '\x00', '8', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131cca38
+Primitive Array [C is ['\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131cc9b0
+Primitive Array [C is ['T', '\x00', 'o', '\x00', 'k', '\x00', 'e', '\x00', 'n', '\x00', ' ', '\x00', 'w', '\x00', 'a', '\x00', 's', '\x00', ' ', '\x00', 'n', '\x00', 'u', '\x00', 'l', '\x00', 'l', '\x00', ' ', '\x00', 'f', '\x00', 'o', '\x00', 'r', '\x00', ' ', '\x00', 's', '\x00', 'i', '\x00', 'n', '\x00', 'g', '\x00', 'l', '\x00', 'e', '\x00', 'b', '\x00', 'y', '\x00', 't', '\x00', 'e', '\x00', ' ', '\x00', 'i', '\x00', 'd', '\x00', 'x', '\x00', ':', '\x00', ' ', '\x00'] 0x131cc9e0
+String - 'Token' 'was' 'null' 'for' 'singlebyte' 'idx:' '8' 0x131ccad8
+Primitive Array [B is [58, 143, 67, 93, 183, 225, 95, 30, 57, 37, 145, 115, 194, 173, 233, 243] 0x131ccb10
+Primitive Array [B is [51, 65, 56, 70, 52, 51, 53, 68, 66, 55, 69, 49, 53, 70, 49, 69, 51, 57, 50, 53, 57, 49, 55, 51, 67, 50, 65, 68, 69, 57, 70, 51] 0x131ccb30
+Error 0x131ccb60
+Primitive Array [C is ['3', '\x00', 'A', '\x00', '8', '\x00', 'F', '\x00', '4', '\x00', '3', '\x00', '5', '\x00', 'D', '\x00', 'B', '\x00', '7', '\x00', 'E', '\x00', '1', '\x00', '5', '\x00', 'F', '\x00', '1', '\x00', 'E', '\x00', '3', '\x00', '9', '\x00', '2', '\x00', '5', '\x00', '9', '\x00', '1', '\x00', '7', '\x00', '3', '\x00', 'C', '\x00', '2', '\x00', 'A', '\x00', 'D', '\x00', 'E', '\x00', '9', '\x00', 'F', '\x00', '3', '\x00'] 0x131ccb70
+String - '3A8F435DB7E15F1E39259173C2ADE9F3' 0x131ccbc0
+java.lang.Object 0x131ccbf0
+Error 0x131ccc00
+java.lang.StringBuilder 0x131ccc08
+Primitive Array [C is ['T', '\x00', 'o', '\x00', 'k', '\x00', 'e', '\x00', 'n', '\x00', ' ', '\x00', 'w', '\x00', 'a', '\x00', 's', '\x00', ' ', '\x00', 'n', '\x00', 'u', '\x00', 'l', '\x00', 'l', '\x00', ' ', '\x00', 'f', '\x00', 'o', '\x00', 'r', '\x00', ' ', '\x00', 's', '\x00', 'i', '\x00', 'n', '\x00', 'g', '\x00', 'l', '\x00', 'e', '\x00', 'b', '\x00', 'y', '\x00', 't', '\x00', 'e', '\x00', ' ', '\x00', 'i', '\x00', 'd', '\x00', 'x', '\x00', ':', '\x00', ' ', '\x00', '5', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131ccca0
+Primitive Array [C is ['\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131ccc18
+Primitive Array [C is ['T', '\x00', 'o', '\x00', 'k', '\x00', 'e', '\x00', 'n', '\x00', ' ', '\x00', 'w', '\x00', 'a', '\x00', 's', '\x00', ' ', '\x00', 'n', '\x00', 'u', '\x00', 'l', '\x00', 'l', '\x00', ' ', '\x00', 'f', '\x00', 'o', '\x00', 'r', '\x00', ' ', '\x00', 's', '\x00', 'i', '\x00', 'n', '\x00', 'g', '\x00', 'l', '\x00', 'e', '\x00', 'b', '\x00', 'y', '\x00', 't', '\x00', 'e', '\x00', ' ', '\x00', 'i', '\x00', 'd', '\x00', 'x', '\x00', ':', '\x00', ' ', '\x00'] 0x131ccc48
+String - 'Token' 'was' 'null' 'for' 'singlebyte' 'idx:' '5' 0x131ccd40
+Primitive Array [B is [132, 133, 66, 56, 67, 79] 0x131ccd78
+Primitive Array [B is [56, 52, 56, 53, 52, 50, 51, 56, 52, 51, 52] 0x131ccd90
+Error 0x131ccda8
+Primitive Array [C is ['8', '\x00', '4', '\x00', '8', '\x00', '5', '\x00', '4', '\x00', '2', '\x00', '3', '\x00', '8', '\x00', '4', '\x00', '3', '\x00', '4', '\x00'] 0x131ccdb8
+String - '84854238434' 0x131ccde0
+java.lang.StringBuilder 0x131cce00
+Primitive Array [C is ['T', '\x00', 'o', '\x00', 'k', '\x00', 'e', '\x00', 'n', '\x00', ' ', '\x00', 'w', '\x00', 'a', '\x00', 's', '\x00', ' ', '\x00', 'n', '\x00', 'u', '\x00', 'l', '\x00', 'l', '\x00', ' ', '\x00', 'f', '\x00', 'o', '\x00', 'r', '\x00', ' ', '\x00', 's', '\x00', 'i', '\x00', 'n', '\x00', 'g', '\x00', 'l', '\x00', 'e', '\x00', 'b', '\x00', 'y', '\x00', 't', '\x00', 'e', '\x00', ' ', '\x00', 'i', '\x00', 'd', '\x00', 'x', '\x00', ':', '\x00', ' ', '\x00', '3', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131cce98
+Primitive Array [C is ['\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131cce10
+Primitive Array [C is ['T', '\x00', 'o', '\x00', 'k', '\x00', 'e', '\x00', 'n', '\x00', ' ', '\x00', 'w', '\x00', 'a', '\x00', 's', '\x00', ' ', '\x00', 'n', '\x00', 'u', '\x00', 'l', '\x00', 'l', '\x00', ' ', '\x00', 'f', '\x00', 'o', '\x00', 'r', '\x00', ' ', '\x00', 's', '\x00', 'i', '\x00', 'n', '\x00', 'g', '\x00', 'l', '\x00', 'e', '\x00', 'b', '\x00', 'y', '\x00', 't', '\x00', 'e', '\x00', ' ', '\x00', 'i', '\x00', 'd', '\x00', 'x', '\x00', ':', '\x00', ' ', '\x00'] 0x131cce40
+String - 'Token' 'was' 'null' 'for' 'singlebyte' 'idx:' '3' 0x131ccf38
+java.lang.StringBuilder 0x131ccf70
+Primitive Array [C is ['8', '\x00', '4', '\x00', '8', '\x00', '5', '\x00', '4', '\x00', '2', '\x00', '3', '\x00', '8', '\x00', '4', '\x00', '3', '\x00', '4', '\x00', '@', '\x00', 's', '\x00', '.', '\x00', 'w', '\x00', 'h', '\x00', 'a', '\x00', 't', '\x00', 's', '\x00', 'a', '\x00', 'p', '\x00', 'p', '\x00', '.', '\x00', 'n', '\x00', 'e', '\x00', 't', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x131ccfb0
+
+
+
+Android Object Allocation Graph
+here
+java.lang.Object 0x13340e50
+Error 0x13340e58
+Error 0x13340e60
+java.lang.Object 0x13340e68
+Error 0x13340e70
+android.content.ContentValues 0x13340e78
+java.util.HashMap 0x13340e88
+Object Array 0x13341090
+java.util.HashMap$KeySet 0x13341298
+Object Array 0x13340eb0
+java.util.HashMap$Node 0x13340ee0
+String - 'sort_id' 0x12d360b8
+Object Array 0x13340ef8
+java.util.HashMap$Node 0x13340f10
+String - 'chat_row_id' 0x12d1bc00
+java.lang.Long 0x70420a70
+java.util.HashMap$Node 0x13340f28
+String - 'from_me' 0x12d149e0
+java.lang.Long 0x70420a40
+java.util.HashMap$Node 0x13340f40
+String - '3A8F435DB7E15F1E39259173C2ADE9F3' 0x1331e610
+String - 'key_id' 0x704a6020
+java.util.HashMap$Node 0x13340f58
+String - 'sender_jid_row_id' 0x12d15630
+java.lang.Long 0x703fc628
+java.util.HashMap$Node 0x13340f70
+java.util.HashMap$Node 0x13341060
+String - 'status' 0x704abb90
+java.util.HashMap$Node 0x13340f88
+String - 'broadcast' 0x12d13a00
+Object Array 0x13340fa0
+java.util.HashMap$Node 0x13340ff0
+java.util.HashMap$Node 0x13341138
+String - 'recipient_count' 0x12d33918
+java.util.HashMap$Node 0x13341008
+String - 'participant_hash' 0x12d13898
+java.util.HashMap$Node 0x13341020
+String - 'origination_flags' 0x12d181c0
+java.util.HashMap$Node 0x13341038
+String - 'origin' 0x12d36fb8

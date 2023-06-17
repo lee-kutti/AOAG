@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/usr/bin/pypy",
+    "python.linting.enabled": true,
+    "python.formatting.provider": "yapf"
+}

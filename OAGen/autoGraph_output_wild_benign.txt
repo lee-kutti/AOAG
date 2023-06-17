@@ -1,0 +1,91 @@
+
+{'guardianpuzzle_memdump_2004': 'guardianpuzzle_memdump_2004_heapdump.out', 'hexa_memdump_2204': 'hexa_memdump_2204_heapdump.out', 'bridebook_memdump_2104': 'bridebook_memdump_2104_heapdump.out', 'gamepack_memdump_2204': 'gamepack_memdump_2204_heapdump.out', 'sushifever_memdump_2004': 'sushifever_memdump_2004_heapdump.out', 'slitherlink_memdump_2204': 'slitherlink_memdump_2204_heapdump.out', 'clues_memdump_2204': 'clues_memdump_2204_heapdump.out', 'geocal_memdump_2104': 'geocal_memdump_2104_heapdump.out', 'shapefold_memdump_2204': 'shapefold_memdump_2204_heapdump.out', 'mywed_memdump_2204': 'mywed_memdump_2204_heapdump.out'}
+Starting Graph with guardianpuzzle_memdump_2004_heapdump.out
+Exception in guardianpuzzle_memdump_2004_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with hexa_memdump_2204_heapdump.out
+graph hexa_memdump_2204_heapdump.out completed successfully
+Starting Graph with bridebook_memdump_2104_heapdump.out
+graph bridebook_memdump_2104_heapdump.out completed successfully
+Starting Graph with gamepack_memdump_2204_heapdump.out
+Exception in gamepack_memdump_2204_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with sushifever_memdump_2004_heapdump.out
+graph sushifever_memdump_2004_heapdump.out completed successfully
+Starting Graph with slitherlink_memdump_2204_heapdump.out
+graph slitherlink_memdump_2204_heapdump.out completed successfully
+Starting Graph with clues_memdump_2204_heapdump.out
+graph clues_memdump_2204_heapdump.out completed successfully
+Starting Graph with geocal_memdump_2104_heapdump.out
+graph geocal_memdump_2104_heapdump.out completed successfully
+Starting Graph with shapefold_memdump_2204_heapdump.out
+graph shapefold_memdump_2204_heapdump.out completed successfully
+Starting Graph with mywed_memdump_2204_heapdump.out
+graph mywed_memdump_2204_heapdump.out completed successfully
+
+
+
+{'sudoku_memdump_2204': 'sudoku_memdump_2204_heapdump.out', 'adaptedmindmath_memdump_2004': 'adaptedmindmath_memdump_2004_heapdump.out', 'knit_memdump_2104': 'knit_memdump_2104_heapdump.out', 'colortest_memdump_2204': 'colortest_memdump_2204_heapdump.out', 'softword_memdump_2104': 'softword_memdump_2104_heapdump.out'}
+Starting Graph with sudoku_memdump_2204_heapdump.out
+Exception in sudoku_memdump_2204_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with adaptedmindmath_memdump_2004_heapdump.out
+graph adaptedmindmath_memdump_2004_heapdump.out completed successfully
+Starting Graph with knit_memdump_2104_heapdump.out
+Exception in knit_memdump_2104_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with colortest_memdump_2204_heapdump.out
+graph colortest_memdump_2204_heapdump.out completed successfully
+Starting Graph with softword_memdump_2104_heapdump.out
+graph softword_memdump_2104_heapdump.out completed successfully
+
+
+
+{'potterquiz_memdump_1804': 'potterquiz_memdump_1804_heapdump.out', 'labandict_memdump_1604': 'labandict_memdump_1604_heapdump.out', 'onlinequiz_memdump_2204': 'onlinequiz_memdump_2204_heapdump.out', 'tapuzlle_memdump_1804': 'tapuzlle_memdump_1804_heapdump.out', 'jewelanc_memdump_1804': 'jewelanc_memdump_1804_heapdump.out', 'tilecat_memdump_1904': 'tilecat_memdump_1904_heapdump.out', 'hotelstr_memdump_1804': 'hotelstr_memdump_1804_heapdump.out', 'fruitwonder_memdump_1904': 'fruitwonder_memdump_1904_heapdump.out'}
+Starting Graph with potterquiz_memdump_1804_heapdump.out
+graph potterquiz_memdump_1804_heapdump.out completed successfully
+Starting Graph with labandict_memdump_1604_heapdump.out
+graph labandict_memdump_1604_heapdump.out completed successfully
+Starting Graph with onlinequiz_memdump_2204_heapdump.out
+graph onlinequiz_memdump_2204_heapdump.out completed successfully
+Starting Graph with tapuzlle_memdump_1804_heapdump.out
+Exception in tapuzlle_memdump_1804_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with jewelanc_memdump_1804_heapdump.out
+Exception in jewelanc_memdump_1804_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with tilecat_memdump_1904_heapdump.out
+graph tilecat_memdump_1904_heapdump.out completed successfully
+Starting Graph with hotelstr_memdump_1804_heapdump.out
+graph hotelstr_memdump_1804_heapdump.out completed successfully
+Starting Graph with fruitwonder_memdump_1904_heapdump.out
+Exception in fruitwonder_memdump_1904_heapdump.out: cannot concatenate 'str' and 'int' objects
+
+
+
+{'spotdif_memdump_1804': 'spotdif_memdump_1804_heapdump.out', 'thuchi_memdump_1804': 'thuchi_memdump_1804_heapdump.out', 'beefac_memdump_1804': 'beefac_memdump_1804_heapdump.out', 'khe_memdump_1804': 'khe_memdump_1804_heapdump.out'}
+Starting Graph with spotdif_memdump_1804_heapdump.out
+graph spotdif_memdump_1804_heapdump.out completed successfully
+Starting Graph with thuchi_memdump_1804_heapdump.out
+graph thuchi_memdump_1804_heapdump.out completed successfully
+Starting Graph with beefac_memdump_1804_heapdump.out
+graph beefac_memdump_1804_heapdump.out completed successfully
+Starting Graph with khe_memdump_1804_heapdump.out
+Exception in khe_memdump_1804_heapdump.out: cannot concatenate 'str' and 'int' objects
+Android Object Allocation Graph
+NonTlab Total 451423
+
+
+
+{'speedread_memdump_1504': 'speedread_memdump_1504_heapdump.out', 'mermaids_memdump_1504': 'mermaids_memdump_1504_heapdump.out', 'avocation_memdump_1604': 'avocation_memdump_1604_heapdump.out', 'decision_memdump_1504': 'decision_memdump_1504_heapdump.out', 'unitconvert_memdump_1604': 'unitconvert_memdump_1604_heapdump.out', 'mapquiz_memdump_1504': 'mapquiz_memdump_1504_heapdump.out', 'lawattract_memdump_1504': 'lawattract_memdump_1504_heapdump.out'}
+Starting Graph with speedread_memdump_1504_heapdump.out
+Exception in speedread_memdump_1504_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with mermaids_memdump_1504_heapdump.out
+Exception in mermaids_memdump_1504_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with avocation_memdump_1604_heapdump.out
+Exception in avocation_memdump_1604_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with decision_memdump_1504_heapdump.out
+graph decision_memdump_1504_heapdump.out completed successfully
+Starting Graph with unitconvert_memdump_1604_heapdump.out
+Exception in unitconvert_memdump_1604_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with mapquiz_memdump_1504_heapdump.out
+Exception in mapquiz_memdump_1504_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with lawattract_memdump_1504_heapdump.out
+Exception in lawattract_memdump_1504_heapdump.out: cannot concatenate 'str' and 'int' objects
+
+
+

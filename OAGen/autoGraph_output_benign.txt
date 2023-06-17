@@ -1,0 +1,161 @@
+{'buzzpia_memdump_07052023': 'buzzpia_memdump_07052023_heapdump.out', 'redlight_memdump_06052023': 'redlight_memdump_06052023_heapdump.out', 'calmdts2015_memdump_07052023': 'calmdts2015_memdump_07052023_heapdump.out', 'snap_memdump_06052023': 'snap_memdump_06052023_heapdump.out', 'c25k_memdump_07052023': 'c25k_memdump_07052023_heapdump.out', 'buzzfeed_memdump_06052023': 'buzzfeed_memdump_06052023_heapdump.out'}
+Starting Graph with buzzpia_memdump_07052023_heapdump.out
+Exception in buzzpia_memdump_07052023_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with redlight_memdump_06052023_heapdump.out
+graph redlight_memdump_06052023_heapdump.out completed successfully
+Starting Graph with calmdts2015_memdump_07052023_heapdump.out
+graph calmdts2015_memdump_07052023_heapdump.out completed successfully
+Starting Graph with snap_memdump_06052023_heapdump.out
+Exception in snap_memdump_06052023_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with c25k_memdump_07052023_heapdump.out
+graph c25k_memdump_07052023_heapdump.out completed successfully
+Starting Graph with buzzfeed_memdump_06052023_heapdump.out
+Exception in buzzfeed_memdump_06052023_heapdump.out: cannot concatenate 'str' and 'int' objects
+
+
+chryplayer_memdump_13052023_heapdump_graph.dot
+Android Object Allocation Graph
+NonTlab Total 37444
+56193
+88506
+
+newsedmonton_memdump_13052023_heapdump_graph.dot
+Android Object Allocation Graph
+NonTlab Total 9944
+22040
+44940
+
+cicnews_memdump_13052023_heapdump_graph.dot
+Android Object Allocation Graph
+NonTlab Total 74627
+94806
+153209
+
+newscalgary_memdump_13052023_heapdump_graph.dot
+Android Object Allocation Graph
+NonTlab Total 9908
+23844
+47605
+
+
+
+{'cheaptickets_memdump_12052023': 'cheaptickets_memdump_12052023_heapdump.out', 'catplewallpp_memdump_12052023': 'catplewallpp_memdump_12052023_heapdump.out', 'caynax_memdump_12052023': 'caynax_memdump_12052023_heapdump.out', 'centralmedia_memdump_12052023': 'centralmedia_memdump_12052023_heapdump.out', 'scrnlock_memdump_12052023': 'scrnlock_memdump_12052023_heapdump.out', 'cherrygame_memdump_12052023': 'cherrygame_memdump_12052023_heapdump.out', 'merongshop_memdump_12052023': 'merongshop_memdump_12052023_heapdump.out', 'juzamma_memdump_12052023': 'juzamma_memdump_12052023_heapdump.out', 'mydays_memdump_12052023': 'mydays_memdump_12052023_heapdump.out', 'chmyplayer_memdump_12052023': 'chmyplayer_memdump_12052023_heapdump.out', 'lovemsg_memdump_13052023': 'lovemsg_memdump_13052023_heapdump.out', 'cunpic_memdump_12052023': 'cunpic_memdump_12052023_heapdump.out', 'pedometer_memdump_12052023': 'pedometer_memdump_12052023_heapdump.out'}
+Starting Graph with cheaptickets_memdump_12052023_heapdump.out
+graph cheaptickets_memdump_12052023_heapdump.out completed successfully
+Starting Graph with catplewallpp_memdump_12052023_heapdump.out
+graph catplewallpp_memdump_12052023_heapdump.out completed successfully
+Starting Graph with caynax_memdump_12052023_heapdump.out
+graph caynax_memdump_12052023_heapdump.out completed successfully
+Starting Graph with centralmedia_memdump_12052023_heapdump.out
+graph centralmedia_memdump_12052023_heapdump.out completed successfully
+Starting Graph with scrnlock_memdump_12052023_heapdump.out
+graph scrnlock_memdump_12052023_heapdump.out completed successfully
+Starting Graph with cherrygame_memdump_12052023_heapdump.out
+graph cherrygame_memdump_12052023_heapdump.out completed successfully
+Starting Graph with merongshop_memdump_12052023_heapdump.out
+graph merongshop_memdump_12052023_heapdump.out completed successfully
+Starting Graph with juzamma_memdump_12052023_heapdump.out
+graph juzamma_memdump_12052023_heapdump.out completed successfully
+Starting Graph with mydays_memdump_12052023_heapdump.out
+graph mydays_memdump_12052023_heapdump.out completed successfully
+Starting Graph with chmyplayer_memdump_12052023_heapdump.out
+graph chmyplayer_memdump_12052023_heapdump.out completed successfully
+Starting Graph with lovemsg_memdump_13052023_heapdump.out
+Exception in lovemsg_memdump_13052023_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with cunpic_memdump_12052023_heapdump.out
+graph cunpic_memdump_12052023_heapdump.out completed successfully
+Starting Graph with pedometer_memdump_12052023_heapdump.out
+graph pedometer_memdump_12052023_heapdump.out completed successfully
+
+
+
+{'skypilot_memdump_17052023': 'skypilot_memdump_17052023_heapdump.out', 'quicklab_memdump_13052023': 'quicklab_memdump_13052023_heapdump.out', 'dartsscrbrd_memdump_17052023': 'dartsscrbrd_memdump_17052023_heapdump.out', 'scopic_memdump_15092023': 'scopic_memdump_15092023_heapdump.out', 'guide4rb_memdump_19052023': 'guide4rb_memdump_19052023_heapdump.out', 'shihedo_memdump_13052023': 'shihedo_memdump_13052023_heapdump.out', 'VidTrim_memdump_13052023': 'VidTrim_memdump_13052023_heapdump.out', 'shoppinglst_memdump_19052023': 'shoppinglst_memdump_19052023_heapdump.out', 'biblia_memdump_19052023': 'biblia_memdump_19052023_heapdump.out', 'newshaiti_memdump_13052023': 'newshaiti_memdump_13052023_heapdump.out', 'lvfrm_memdump_19052023': 'lvfrm_memdump_19052023_heapdump.out', 'hockeynews_memdump_13052023': 'hockeynews_memdump_13052023_heapdump.out', 'bibleverse_memdump_19052023': 'bibleverse_memdump_19052023_heapdump.out', 'lvkeyboard_memdump_13052023': 'lvkeyboard_memdump_13052023_heapdump.out'}
+Starting Graph with skypilot_memdump_17052023_heapdump.out
+graph skypilot_memdump_17052023_heapdump.out completed successfully
+Starting Graph with quicklab_memdump_13052023_heapdump.out
+graph quicklab_memdump_13052023_heapdump.out completed successfully
+Starting Graph with dartsscrbrd_memdump_17052023_heapdump.out
+graph dartsscrbrd_memdump_17052023_heapdump.out completed successfully
+Starting Graph with scopic_memdump_15092023_heapdump.out
+graph scopic_memdump_15092023_heapdump.out completed successfully
+Starting Graph with guide4rb_memdump_19052023_heapdump.out
+graph guide4rb_memdump_19052023_heapdump.out completed successfully
+Starting Graph with shihedo_memdump_13052023_heapdump.out
+Exception in shihedo_memdump_13052023_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with VidTrim_memdump_13052023_heapdump.out
+graph VidTrim_memdump_13052023_heapdump.out completed successfully
+Starting Graph with shoppinglst_memdump_19052023_heapdump.out
+graph shoppinglst_memdump_19052023_heapdump.out completed successfully
+Starting Graph with biblia_memdump_19052023_heapdump.out
+Exception in biblia_memdump_19052023_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with newshaiti_memdump_13052023_heapdump.out
+graph newshaiti_memdump_13052023_heapdump.out completed successfully
+Starting Graph with lvfrm_memdump_19052023_heapdump.out
+Exception in lvfrm_memdump_19052023_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with hockeynews_memdump_13052023_heapdump.out
+graph hockeynews_memdump_13052023_heapdump.out completed successfully
+Starting Graph with bibleverse_memdump_19052023_heapdump.out
+graph bibleverse_memdump_19052023_heapdump.out completed successfully
+Starting Graph with lvkeyboard_memdump_13052023_heapdump.out
+graph lvkeyboard_memdump_13052023_heapdump.out completed successfully
+
+
+
+{'cherrygame_memdump_12052023': 'cherrygame_memdump_12052023_heapdump.out', 'newsmontreal_memdump_13052023': 'newsmontreal_memdump_13052023_heapdump.out', 'tiempo_memdump_19052023': 'tiempo_memdump_19052023_heapdump.out', 'anxsymtrt_memdump_17052023': 'anxsymtrt_memdump_17052023_heapdump.out', 'librivox_memdump_19052023': 'librivox_memdump_19052023_heapdump.out'}
+Starting Graph with cherrygame_memdump_12052023_heapdump.out
+graph cherrygame_memdump_12052023_heapdump.out completed successfully
+Starting Graph with newsmontreal_memdump_13052023_heapdump.out
+graph newsmontreal_memdump_13052023_heapdump.out completed successfully
+Starting Graph with tiempo_memdump_19052023_heapdump.out
+graph tiempo_memdump_19052023_heapdump.out completed successfully
+Starting Graph with anxsymtrt_memdump_17052023_heapdump.out
+graph anxsymtrt_memdump_17052023_heapdump.out completed successfully
+Starting Graph with librivox_memdump_19052023_heapdump.out
+graph librivox_memdump_19052023_heapdump.out completed successfully
+
+
+
+{'ladytimer_memdump_22052023': 'ladytimer_memdump_22052023_heapdump.out', 'pakito_memdump_22052023': 'pakito_memdump_22052023_heapdump.out', 'tembang_memdump_24052023': 'tembang_memdump_24052023_heapdump.out', 'youversion_memdump_24052023': 'youversion_memdump_24052023_heapdump.out', 'alrajhi_memdump_22052023': 'alrajhi_memdump_22052023_heapdump.out', 'astra_memdump_22052023': 'astra_memdump_22052023_heapdump.out', 'sardinia_memdump_22052023': 'sardinia_memdump_22052023_heapdump.out', 'ptinovacao_memdump_22052023': 'ptinovacao_memdump_22052023_heapdump.out', 'questico_memdump_24052023': 'questico_memdump_24052023_heapdump.out', 'scrabble_memdump_24052023': 'scrabble_memdump_24052023_heapdump.out', 'spellamt_memdump_24052023': 'spellamt_memdump_24052023_heapdump.out', 'monotype_memdump_24052023': 'monotype_memdump_24052023_heapdump.out', 'translvwpp_memdump_22052023': 'translvwpp_memdump_22052023_heapdump.out', 'rihanawork_memdump_24052023': 'rihanawork_memdump_24052023_heapdump.out', 'gramwlotka_memdump_24052023': 'gramwlotka_memdump_24052023_heapdump.out', 'ipamer_memdump_24052023': 'ipamer_memdump_24052023_heapdump.out', 'triclcal_memdump_22052023': 'triclcal_memdump_22052023_heapdump.out', 'brussel_memdump_24052023': 'brussel_memdump_24052023_heapdump.out', 'kms_memdump_24052023': 'kms_memdump_24052023_heapdump.out', 'drinkwater_memdump_24052023': 'drinkwater_memdump_24052023_heapdump.out'}
+Starting Graph with ladytimer_memdump_22052023_heapdump.out
+graph ladytimer_memdump_22052023_heapdump.out completed successfully
+Starting Graph with pakito_memdump_22052023_heapdump.out
+graph pakito_memdump_22052023_heapdump.out completed successfully
+Starting Graph with tembang_memdump_24052023_heapdump.out
+graph tembang_memdump_24052023_heapdump.out completed successfully
+Starting Graph with youversion_memdump_24052023_heapdump.out
+Exception in youversion_memdump_24052023_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with alrajhi_memdump_22052023_heapdump.out
+graph alrajhi_memdump_22052023_heapdump.out completed successfully
+Starting Graph with astra_memdump_22052023_heapdump.out
+graph astra_memdump_22052023_heapdump.out completed successfully
+Starting Graph with sardinia_memdump_22052023_heapdump.out
+graph sardinia_memdump_22052023_heapdump.out completed successfully
+Starting Graph with ptinovacao_memdump_22052023_heapdump.out
+graph ptinovacao_memdump_22052023_heapdump.out completed successfully
+Starting Graph with questico_memdump_24052023_heapdump.out
+Exception in questico_memdump_24052023_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with scrabble_memdump_24052023_heapdump.out
+graph scrabble_memdump_24052023_heapdump.out completed successfully
+Starting Graph with spellamt_memdump_24052023_heapdump.out
+graph spellamt_memdump_24052023_heapdump.out completed successfully
+Starting Graph with monotype_memdump_24052023_heapdump.out
+graph monotype_memdump_24052023_heapdump.out completed successfully
+Starting Graph with translvwpp_memdump_22052023_heapdump.out
+Exception in translvwpp_memdump_22052023_heapdump.out: cannot concatenate 'str' and 'int' objects
+Starting Graph with rihanawork_memdump_24052023_heapdump.out
+graph rihanawork_memdump_24052023_heapdump.out completed successfully
+Starting Graph with gramwlotka_memdump_24052023_heapdump.out
+graph gramwlotka_memdump_24052023_heapdump.out completed successfully
+Starting Graph with ipamer_memdump_24052023_heapdump.out
+graph ipamer_memdump_24052023_heapdump.out completed successfully
+Starting Graph with triclcal_memdump_22052023_heapdump.out
+graph triclcal_memdump_22052023_heapdump.out completed successfully
+Starting Graph with brussel_memdump_24052023_heapdump.out
+graph brussel_memdump_24052023_heapdump.out completed successfully
+Starting Graph with kms_memdump_24052023_heapdump.out
+graph kms_memdump_24052023_heapdump.out completed successfully
+Starting Graph with drinkwater_memdump_24052023_heapdump.out
+graph drinkwater_memdump_24052023_heapdump.out completed successfully
+
+
+

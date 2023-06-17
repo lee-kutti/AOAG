@@ -1,0 +1,19 @@
+BENIGN:
+
+HEAPDUMP MISSING: snap_memdump_06052023, buzzpia_memdump_07052023, buzzfeed_memdump_06052023, lovemsg_memdump_13052023, lvfrm_memdump_19052023, biblia_memdump_19052023, shihedo_memdump_13052023, youversion_memdump_24052023, questico_memdump_24052023,  => GRAPH FAILED
+
+GRAPH MISSING: alrajhi_memdump_22052023_heapdump, astra_memdump_22052023_heapdump, cherrygame_memdump_12052023_heapdump => NONSENSE GRAPHS
+
+
+
+MALWARE: 
+HEAPDUMP MISSING: duijiangji_memdump_10052023, xiaokids_memdump_11052023, xinshao_memdump_10052023 => GRAPH FAILED except xiaokids_memdump_11052023
+
+GRAPH MISSING: bwg_memdump_11052023, funflow_memdump_10052023, sftoyalp_memdump_23052023_heapdump => GRAPH FAILED except funflow_memdump_10052023
+
+
+
+WILD_BENIGN: 
+HEAPDUMP MISSING:  => 
+
+GRAPH MISSING:  => 

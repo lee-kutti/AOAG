@@ -1,0 +1,784 @@
+Android Object Allocation Graph
+android.database.sqlite.SQLiteStatement 0x14780510
+String Array [Ljava.lang.String; is [] 0x7078ea80
+android.database.sqlite.SQLiteDatabase 0x15014488
+String - 'DELETE' 'FROM' 'message_base_key' 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x14780918
+Object Array 0x14780a28
+android.database.sqlite.SQLiteConnection$Operation 0x1506d570
+String - 'prepare' 0x70617980
+java.util.ArrayList 0x14701d48
+android.database.sqlite.SQLiteConnection$Operation 0x1506d9c0
+String - 'executeForChangedRowCount' 0x708bd800
+java.util.ArrayList 0x147021c8
+Object Array 0x1506d210
+android.database.sqlite.SQLiteConnection$Operation 0x1522e068
+android.database.sqlite.SQLiteConnection$Operation 0x1522e0a0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e0d8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e110
+android.database.sqlite.SQLiteConnection$Operation 0x1522e148
+android.database.sqlite.SQLiteConnection$Operation 0x1522e180
+android.database.sqlite.SQLiteConnection$Operation 0x1522e1b8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e1f0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e228
+android.database.sqlite.SQLiteConnection$Operation 0x1522e260
+android.database.sqlite.SQLiteConnection$Operation 0x1522e298
+android.database.sqlite.SQLiteConnection$Operation 0x1522e2d0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e308
+android.database.sqlite.SQLiteConnection$Operation 0x1522e340
+android.database.sqlite.SQLiteConnection$Operation 0x1522e378
+android.database.sqlite.SQLiteConnection$Operation 0x1522e3b0
+android.database.sqlite.SQLiteConnection$Operation 0x1506d270
+android.database.sqlite.SQLiteConnection$Operation 0x1506d450
+android.database.sqlite.SQLiteConnection$OperationLog 0x1506d1f8
+android.database.sqlite.SQLiteConnection 0x1506d1c0
+dalvik.system.CloseGuard 0x705de540
+android.database.sqlite.SQLiteConnectionPool 0x15014640
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1506d380
+android.database.sqlite.SQLiteConnection$PreparedStatementCache 0x1506d2a8
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x14a371e0
+java.util.WeakHashMap$Entry 0x13509540
+android.database.sqlite.SQLiteConnectionPool$AcquiredConnectionStatus 0x7076b490
+java.lang.ref.ReferenceQueue 0x15016cc8
+java.util.WeakHashMap$Entry 0x14780a00
+java.util.WeakHashMap$Entry 0x14780a60
+java.util.WeakHashMap$Entry 0x14781ab8
+java.util.WeakHashMap$Entry 0x14781b18
+java.util.WeakHashMap$Entry 0x14782bc0
+java.util.WeakHashMap$Entry 0x14782c20
+java.lang.Object 0x15016a30
+java.util.ArrayList 0x15016a78
+java.util.WeakHashMap 0x15016c00
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1522dbb0
+java.util.concurrent.atomic.AtomicBoolean 0x1522dbd8
+java.lang.ref.FinalizerReference 0x1508f708
+java.lang.ref.ReferenceQueue 0x705de4b8
+java.lang.ref.FinalizerReference 0x1508f6e0
+java.lang.ref.FinalizerReference 0x1508f730
+java.util.LinkedHashMap 0x1506d2d8
+java.lang.Object 0x150145f8
+android.database.sqlite.SQLiteDatabase$1 0x150167f8
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1501b230
+java.lang.Object 0x12e263f0
+android.database.sqlite.SQLiteConnection 0x15016b60
+android.database.sqlite.SQLiteConnection$OperationLog 0x15016e38
+android.database.sqlite.SQLiteConnection$PreparedStatementCache 0x150171e8
+android.database.sqlite.SQLiteDatabaseConfiguration 0x150204d0
+android.database.sqlite.SQLiteSession 0x150168e8
+android.database.sqlite.SQLiteSession$Transaction 0x1506d420
+java.lang.ref.FinalizerReference 0x1508f758
+android.database.sqlite.SQLiteSession 0x15222f70
+android.database.sqlite.SQLiteSession 0x15229d10
+java.lang.ref.FinalizerReference 0x1508f6b8
+android.database.sqlite.SQLiteDirectCursorDriver 0x13504988
+android.database.sqlite.SQLiteQuery 0x135049a8
+android.database.sqlite.SQLiteDirectCursorDriver 0x13505d48
+android.database.sqlite.SQLiteQuery 0x13505d68
+android.database.sqlite.SQLiteStatement 0x13509780
+android.database.sqlite.SQLiteDirectCursorDriver 0x135135a0
+android.database.sqlite.SQLiteQuery 0x135135c0
+android.database.sqlite.SQLiteDirectCursorDriver 0x13514920
+android.database.sqlite.SQLiteQuery 0x13514940
+android.database.sqlite.SQLiteStatement 0x147815c8
+android.database.sqlite.SQLiteStatement 0x147826d0
+java.util.WeakHashMap$Entry 0x13e54650
+android.database.sqlite.SQLiteDirectCursorDriver 0x1542a038
+android.database.sqlite.SQLiteQuery 0x1542a058
+android.database.sqlite.SQLiteDirectCursorDriver 0x15429e30
+android.database.sqlite.SQLiteQuery 0x15429e50
+android.database.sqlite.SQLiteDirectCursorDriver 0x154221f8
+android.database.sqlite.SQLiteQuery 0x15422218
+android.database.sqlite.SQLiteDirectCursorDriver 0x15421f68
+android.database.sqlite.SQLiteQuery 0x15421f88
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bf8a28
+android.database.sqlite.SQLiteQuery 0x14bf8a48
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bf88a8
+android.database.sqlite.SQLiteQuery 0x14bf88c8
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bede70
+android.database.sqlite.SQLiteQuery 0x14bede90
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bedcf0
+android.database.sqlite.SQLiteQuery 0x14bedd10
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be96b0
+android.database.sqlite.SQLiteQuery 0x14be96d0
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be9530
+android.database.sqlite.SQLiteQuery 0x14be9550
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be5088
+android.database.sqlite.SQLiteQuery 0x14be50a8
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be4f08
+android.database.sqlite.SQLiteQuery 0x14be4f28
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526b298
+android.database.sqlite.SQLiteQuery 0x1526b2b8
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526afa0
+android.database.sqlite.SQLiteQuery 0x1526afc0
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526ae48
+android.database.sqlite.SQLiteQuery 0x1526ae68
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526acc8
+android.database.sqlite.SQLiteQuery 0x1526ace8
+android.database.sqlite.SQLiteDirectCursorDriver 0x15269ca8
+android.database.sqlite.SQLiteQuery 0x15269cc8
+java.util.WeakHashMap$Entry 0x13504a00
+java.util.WeakHashMap$Entry 0x13504be8
+java.util.WeakHashMap$Entry 0x13505dc0
+java.util.WeakHashMap$Entry 0x13505fa8
+java.util.WeakHashMap$Entry 0x13513618
+java.util.WeakHashMap$Entry 0x13513800
+java.util.WeakHashMap$Entry 0x13514998
+java.util.WeakHashMap$Entry 0x13514b80
+Object Array 0x15016b28
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15016848
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15222f10
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15229cb0
+
+
+
+Android Object Allocation Graph
+android.database.sqlite.SQLiteStatement 0x147815c8
+String Array [Ljava.lang.String; is [] 0x7078ea80
+android.database.sqlite.SQLiteDatabase 0x15014488
+String - 'DELETE' 'FROM' 'message_base_key' 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x147819d0
+Object Array 0x14781ae0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e308
+String - 'prepare' 0x70617980
+java.util.ArrayList 0x1522e6b0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e340
+java.util.ArrayList 0x14781b40
+String - 'executeForChangedRowCount' 0x708bd800
+Object Array 0x1506d210
+android.database.sqlite.SQLiteConnection$Operation 0x1522e068
+android.database.sqlite.SQLiteConnection$Operation 0x1522e0a0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e0d8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e110
+android.database.sqlite.SQLiteConnection$Operation 0x1522e148
+android.database.sqlite.SQLiteConnection$Operation 0x1522e180
+android.database.sqlite.SQLiteConnection$Operation 0x1522e1b8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e1f0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e228
+android.database.sqlite.SQLiteConnection$Operation 0x1522e260
+android.database.sqlite.SQLiteConnection$Operation 0x1522e298
+android.database.sqlite.SQLiteConnection$Operation 0x1522e2d0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e378
+android.database.sqlite.SQLiteConnection$Operation 0x1522e3b0
+android.database.sqlite.SQLiteConnection$Operation 0x1506d270
+android.database.sqlite.SQLiteConnection$Operation 0x1506d450
+android.database.sqlite.SQLiteConnection$Operation 0x1506d570
+android.database.sqlite.SQLiteConnection$Operation 0x1506d9c0
+android.database.sqlite.SQLiteConnection$OperationLog 0x1506d1f8
+android.database.sqlite.SQLiteConnection 0x1506d1c0
+dalvik.system.CloseGuard 0x705de540
+android.database.sqlite.SQLiteConnectionPool 0x15014640
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1506d380
+android.database.sqlite.SQLiteConnection$PreparedStatementCache 0x1506d2a8
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x14a371e0
+java.util.WeakHashMap$Entry 0x13509540
+android.database.sqlite.SQLiteConnectionPool$AcquiredConnectionStatus 0x7076b490
+java.lang.ref.ReferenceQueue 0x15016cc8
+java.util.WeakHashMap$Entry 0x14780a00
+java.util.WeakHashMap$Entry 0x14780a60
+java.util.WeakHashMap$Entry 0x14781ab8
+java.util.WeakHashMap$Entry 0x14781b18
+java.util.WeakHashMap$Entry 0x14782bc0
+java.util.WeakHashMap$Entry 0x14782c20
+java.lang.Object 0x15016a30
+java.util.ArrayList 0x15016a78
+java.util.WeakHashMap 0x15016c00
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1522dbb0
+java.util.concurrent.atomic.AtomicBoolean 0x1522dbd8
+java.lang.ref.FinalizerReference 0x1508f708
+java.lang.ref.ReferenceQueue 0x705de4b8
+java.lang.ref.FinalizerReference 0x1508f6e0
+java.lang.ref.FinalizerReference 0x1508f730
+java.util.LinkedHashMap 0x1506d2d8
+java.lang.Object 0x150145f8
+android.database.sqlite.SQLiteDatabase$1 0x150167f8
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1501b230
+java.lang.Object 0x12e263f0
+android.database.sqlite.SQLiteConnection 0x15016b60
+android.database.sqlite.SQLiteConnection$OperationLog 0x15016e38
+android.database.sqlite.SQLiteConnection$PreparedStatementCache 0x150171e8
+android.database.sqlite.SQLiteDatabaseConfiguration 0x150204d0
+android.database.sqlite.SQLiteSession 0x150168e8
+android.database.sqlite.SQLiteSession$Transaction 0x1506d420
+java.lang.ref.FinalizerReference 0x1508f758
+android.database.sqlite.SQLiteSession 0x15222f70
+android.database.sqlite.SQLiteSession 0x15229d10
+java.lang.ref.FinalizerReference 0x1508f6b8
+android.database.sqlite.SQLiteDirectCursorDriver 0x13504988
+android.database.sqlite.SQLiteQuery 0x135049a8
+android.database.sqlite.SQLiteDirectCursorDriver 0x13505d48
+android.database.sqlite.SQLiteQuery 0x13505d68
+android.database.sqlite.SQLiteStatement 0x13509780
+android.database.sqlite.SQLiteDirectCursorDriver 0x135135a0
+android.database.sqlite.SQLiteQuery 0x135135c0
+android.database.sqlite.SQLiteDirectCursorDriver 0x13514920
+android.database.sqlite.SQLiteQuery 0x13514940
+android.database.sqlite.SQLiteStatement 0x14780510
+android.database.sqlite.SQLiteStatement 0x147826d0
+java.util.WeakHashMap$Entry 0x13e54650
+android.database.sqlite.SQLiteDirectCursorDriver 0x1542a038
+android.database.sqlite.SQLiteQuery 0x1542a058
+android.database.sqlite.SQLiteDirectCursorDriver 0x15429e30
+android.database.sqlite.SQLiteQuery 0x15429e50
+android.database.sqlite.SQLiteDirectCursorDriver 0x154221f8
+android.database.sqlite.SQLiteQuery 0x15422218
+android.database.sqlite.SQLiteDirectCursorDriver 0x15421f68
+android.database.sqlite.SQLiteQuery 0x15421f88
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bf8a28
+android.database.sqlite.SQLiteQuery 0x14bf8a48
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bf88a8
+android.database.sqlite.SQLiteQuery 0x14bf88c8
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bede70
+android.database.sqlite.SQLiteQuery 0x14bede90
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bedcf0
+android.database.sqlite.SQLiteQuery 0x14bedd10
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be96b0
+android.database.sqlite.SQLiteQuery 0x14be96d0
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be9530
+android.database.sqlite.SQLiteQuery 0x14be9550
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be5088
+android.database.sqlite.SQLiteQuery 0x14be50a8
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be4f08
+android.database.sqlite.SQLiteQuery 0x14be4f28
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526b298
+android.database.sqlite.SQLiteQuery 0x1526b2b8
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526afa0
+android.database.sqlite.SQLiteQuery 0x1526afc0
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526ae48
+android.database.sqlite.SQLiteQuery 0x1526ae68
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526acc8
+android.database.sqlite.SQLiteQuery 0x1526ace8
+android.database.sqlite.SQLiteDirectCursorDriver 0x15269ca8
+android.database.sqlite.SQLiteQuery 0x15269cc8
+java.util.WeakHashMap$Entry 0x13504a00
+java.util.WeakHashMap$Entry 0x13504be8
+java.util.WeakHashMap$Entry 0x13505dc0
+java.util.WeakHashMap$Entry 0x13505fa8
+java.util.WeakHashMap$Entry 0x13513618
+java.util.WeakHashMap$Entry 0x13513800
+java.util.WeakHashMap$Entry 0x13514998
+java.util.WeakHashMap$Entry 0x13514b80
+Object Array 0x15016b28
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15016848
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15222f10
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15229cb0
+
+
+
+Android Object Allocation Graph
+android.database.sqlite.SQLiteStatement 0x147826d0
+String Array [Ljava.lang.String; is [] 0x7078ea80
+android.database.sqlite.SQLiteDatabase 0x15014488
+String - 'DELETE' 'FROM' 'message_base_key' 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x14782ad8
+Object Array 0x14782be8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e0d8
+String - 'prepare' 0x70617980
+java.util.ArrayList 0x14a377f8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e110
+java.util.ArrayList 0x14782c48
+String - 'executeForChangedRowCount' 0x708bd800
+Object Array 0x1506d210
+android.database.sqlite.SQLiteConnection$Operation 0x1522e068
+android.database.sqlite.SQLiteConnection$Operation 0x1522e0a0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e148
+android.database.sqlite.SQLiteConnection$Operation 0x1522e180
+android.database.sqlite.SQLiteConnection$Operation 0x1522e1b8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e1f0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e228
+android.database.sqlite.SQLiteConnection$Operation 0x1522e260
+android.database.sqlite.SQLiteConnection$Operation 0x1522e298
+android.database.sqlite.SQLiteConnection$Operation 0x1522e2d0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e308
+android.database.sqlite.SQLiteConnection$Operation 0x1522e340
+android.database.sqlite.SQLiteConnection$Operation 0x1522e378
+android.database.sqlite.SQLiteConnection$Operation 0x1522e3b0
+android.database.sqlite.SQLiteConnection$Operation 0x1506d270
+android.database.sqlite.SQLiteConnection$Operation 0x1506d450
+android.database.sqlite.SQLiteConnection$Operation 0x1506d570
+android.database.sqlite.SQLiteConnection$Operation 0x1506d9c0
+android.database.sqlite.SQLiteConnection$OperationLog 0x1506d1f8
+android.database.sqlite.SQLiteConnection 0x1506d1c0
+dalvik.system.CloseGuard 0x705de540
+android.database.sqlite.SQLiteConnectionPool 0x15014640
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1506d380
+android.database.sqlite.SQLiteConnection$PreparedStatementCache 0x1506d2a8
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x14a371e0
+java.util.WeakHashMap$Entry 0x13509540
+android.database.sqlite.SQLiteConnectionPool$AcquiredConnectionStatus 0x7076b490
+java.lang.ref.ReferenceQueue 0x15016cc8
+java.util.WeakHashMap$Entry 0x14780a00
+java.util.WeakHashMap$Entry 0x14780a60
+java.util.WeakHashMap$Entry 0x14781ab8
+java.util.WeakHashMap$Entry 0x14781b18
+java.util.WeakHashMap$Entry 0x14782bc0
+java.util.WeakHashMap$Entry 0x14782c20
+java.lang.Object 0x15016a30
+java.util.ArrayList 0x15016a78
+java.util.WeakHashMap 0x15016c00
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1522dbb0
+java.util.concurrent.atomic.AtomicBoolean 0x1522dbd8
+java.lang.ref.FinalizerReference 0x1508f708
+java.lang.ref.ReferenceQueue 0x705de4b8
+java.lang.ref.FinalizerReference 0x1508f6e0
+java.lang.ref.FinalizerReference 0x1508f730
+java.util.LinkedHashMap 0x1506d2d8
+java.lang.Object 0x150145f8
+android.database.sqlite.SQLiteDatabase$1 0x150167f8
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1501b230
+java.lang.Object 0x12e263f0
+android.database.sqlite.SQLiteConnection 0x15016b60
+android.database.sqlite.SQLiteConnection$OperationLog 0x15016e38
+android.database.sqlite.SQLiteConnection$PreparedStatementCache 0x150171e8
+android.database.sqlite.SQLiteDatabaseConfiguration 0x150204d0
+android.database.sqlite.SQLiteSession 0x150168e8
+android.database.sqlite.SQLiteSession$Transaction 0x1506d420
+java.lang.ref.FinalizerReference 0x1508f758
+android.database.sqlite.SQLiteSession 0x15222f70
+android.database.sqlite.SQLiteSession 0x15229d10
+java.lang.ref.FinalizerReference 0x1508f6b8
+android.database.sqlite.SQLiteDirectCursorDriver 0x13504988
+android.database.sqlite.SQLiteQuery 0x135049a8
+android.database.sqlite.SQLiteDirectCursorDriver 0x13505d48
+android.database.sqlite.SQLiteQuery 0x13505d68
+android.database.sqlite.SQLiteStatement 0x13509780
+android.database.sqlite.SQLiteDirectCursorDriver 0x135135a0
+android.database.sqlite.SQLiteQuery 0x135135c0
+android.database.sqlite.SQLiteDirectCursorDriver 0x13514920
+android.database.sqlite.SQLiteQuery 0x13514940
+android.database.sqlite.SQLiteStatement 0x14780510
+android.database.sqlite.SQLiteStatement 0x147815c8
+java.util.WeakHashMap$Entry 0x13e54650
+android.database.sqlite.SQLiteDirectCursorDriver 0x1542a038
+android.database.sqlite.SQLiteQuery 0x1542a058
+android.database.sqlite.SQLiteDirectCursorDriver 0x15429e30
+android.database.sqlite.SQLiteQuery 0x15429e50
+android.database.sqlite.SQLiteDirectCursorDriver 0x154221f8
+android.database.sqlite.SQLiteQuery 0x15422218
+android.database.sqlite.SQLiteDirectCursorDriver 0x15421f68
+android.database.sqlite.SQLiteQuery 0x15421f88
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bf8a28
+android.database.sqlite.SQLiteQuery 0x14bf8a48
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bf88a8
+android.database.sqlite.SQLiteQuery 0x14bf88c8
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bede70
+android.database.sqlite.SQLiteQuery 0x14bede90
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bedcf0
+android.database.sqlite.SQLiteQuery 0x14bedd10
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be96b0
+android.database.sqlite.SQLiteQuery 0x14be96d0
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be9530
+android.database.sqlite.SQLiteQuery 0x14be9550
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be5088
+android.database.sqlite.SQLiteQuery 0x14be50a8
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be4f08
+android.database.sqlite.SQLiteQuery 0x14be4f28
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526b298
+android.database.sqlite.SQLiteQuery 0x1526b2b8
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526afa0
+android.database.sqlite.SQLiteQuery 0x1526afc0
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526ae48
+android.database.sqlite.SQLiteQuery 0x1526ae68
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526acc8
+android.database.sqlite.SQLiteQuery 0x1526ace8
+android.database.sqlite.SQLiteDirectCursorDriver 0x15269ca8
+android.database.sqlite.SQLiteQuery 0x15269cc8
+java.util.WeakHashMap$Entry 0x13504a00
+java.util.WeakHashMap$Entry 0x13504be8
+java.util.WeakHashMap$Entry 0x13505dc0
+java.util.WeakHashMap$Entry 0x13505fa8
+java.util.WeakHashMap$Entry 0x13513618
+java.util.WeakHashMap$Entry 0x13513800
+java.util.WeakHashMap$Entry 0x13514998
+java.util.WeakHashMap$Entry 0x13514b80
+Object Array 0x15016b28
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15016848
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15222f10
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15229cb0
+
+
+
+Android Object Allocation Graph
+android.database.sqlite.SQLiteConnection$Operation 0x1522e148
+String - 'prepare' 0x70617980
+java.util.ArrayList 0x1522e800
+String - 'DELETE' 'FROM' 'message_base_key' 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x14a376e0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e180
+String - 'executeForChangedRowCount' 0x708bd800
+java.util.ArrayList 0x14a376c8
+Object Array 0x1506d210
+android.database.sqlite.SQLiteConnection$Operation 0x1522e068
+android.database.sqlite.SQLiteConnection$Operation 0x1522e0a0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e0d8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e110
+android.database.sqlite.SQLiteConnection$Operation 0x1522e1b8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e1f0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e228
+android.database.sqlite.SQLiteConnection$Operation 0x1522e260
+android.database.sqlite.SQLiteConnection$Operation 0x1522e298
+android.database.sqlite.SQLiteConnection$Operation 0x1522e2d0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e308
+android.database.sqlite.SQLiteConnection$Operation 0x1522e340
+android.database.sqlite.SQLiteConnection$Operation 0x1522e378
+android.database.sqlite.SQLiteConnection$Operation 0x1522e3b0
+android.database.sqlite.SQLiteConnection$Operation 0x1506d270
+android.database.sqlite.SQLiteConnection$Operation 0x1506d450
+android.database.sqlite.SQLiteConnection$Operation 0x1506d570
+android.database.sqlite.SQLiteConnection$Operation 0x1506d9c0
+android.database.sqlite.SQLiteConnection$OperationLog 0x1506d1f8
+android.database.sqlite.SQLiteConnection 0x1506d1c0
+dalvik.system.CloseGuard 0x705de540
+android.database.sqlite.SQLiteConnectionPool 0x15014640
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1506d380
+android.database.sqlite.SQLiteConnection$PreparedStatementCache 0x1506d2a8
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x14a371e0
+java.util.WeakHashMap$Entry 0x13509540
+android.database.sqlite.SQLiteConnectionPool$AcquiredConnectionStatus 0x7076b490
+java.lang.ref.ReferenceQueue 0x15016cc8
+java.util.WeakHashMap$Entry 0x14780a00
+java.util.WeakHashMap$Entry 0x14780a60
+java.util.WeakHashMap$Entry 0x14781ab8
+java.util.WeakHashMap$Entry 0x14781b18
+java.util.WeakHashMap$Entry 0x14782bc0
+java.util.WeakHashMap$Entry 0x14782c20
+java.lang.Object 0x15016a30
+java.util.ArrayList 0x15016a78
+java.util.WeakHashMap 0x15016c00
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1522dbb0
+java.util.concurrent.atomic.AtomicBoolean 0x1522dbd8
+java.lang.ref.FinalizerReference 0x1508f708
+java.lang.ref.ReferenceQueue 0x705de4b8
+java.lang.ref.FinalizerReference 0x1508f6e0
+java.lang.ref.FinalizerReference 0x1508f730
+java.util.LinkedHashMap 0x1506d2d8
+android.database.sqlite.SQLiteDatabase 0x15014488
+java.lang.Object 0x150145f8
+android.database.sqlite.SQLiteDatabase$1 0x150167f8
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1501b230
+java.lang.Object 0x12e263f0
+android.database.sqlite.SQLiteConnection 0x15016b60
+android.database.sqlite.SQLiteConnection$OperationLog 0x15016e38
+android.database.sqlite.SQLiteConnection$PreparedStatementCache 0x150171e8
+android.database.sqlite.SQLiteDatabaseConfiguration 0x150204d0
+android.database.sqlite.SQLiteSession 0x150168e8
+android.database.sqlite.SQLiteSession$Transaction 0x1506d420
+java.lang.ref.FinalizerReference 0x1508f758
+android.database.sqlite.SQLiteSession 0x15222f70
+android.database.sqlite.SQLiteSession 0x15229d10
+java.lang.ref.FinalizerReference 0x1508f6b8
+android.database.sqlite.SQLiteDirectCursorDriver 0x13504988
+android.database.sqlite.SQLiteQuery 0x135049a8
+android.database.sqlite.SQLiteDirectCursorDriver 0x13505d48
+android.database.sqlite.SQLiteQuery 0x13505d68
+android.database.sqlite.SQLiteStatement 0x13509780
+android.database.sqlite.SQLiteDirectCursorDriver 0x135135a0
+android.database.sqlite.SQLiteQuery 0x135135c0
+android.database.sqlite.SQLiteDirectCursorDriver 0x13514920
+android.database.sqlite.SQLiteQuery 0x13514940
+android.database.sqlite.SQLiteStatement 0x14780510
+android.database.sqlite.SQLiteStatement 0x147815c8
+android.database.sqlite.SQLiteStatement 0x147826d0
+java.util.WeakHashMap$Entry 0x13e54650
+android.database.sqlite.SQLiteDirectCursorDriver 0x1542a038
+android.database.sqlite.SQLiteQuery 0x1542a058
+android.database.sqlite.SQLiteDirectCursorDriver 0x15429e30
+android.database.sqlite.SQLiteQuery 0x15429e50
+android.database.sqlite.SQLiteDirectCursorDriver 0x154221f8
+android.database.sqlite.SQLiteQuery 0x15422218
+android.database.sqlite.SQLiteDirectCursorDriver 0x15421f68
+android.database.sqlite.SQLiteQuery 0x15421f88
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bf8a28
+android.database.sqlite.SQLiteQuery 0x14bf8a48
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bf88a8
+android.database.sqlite.SQLiteQuery 0x14bf88c8
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bede70
+android.database.sqlite.SQLiteQuery 0x14bede90
+android.database.sqlite.SQLiteDirectCursorDriver 0x14bedcf0
+android.database.sqlite.SQLiteQuery 0x14bedd10
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be96b0
+android.database.sqlite.SQLiteQuery 0x14be96d0
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be9530
+android.database.sqlite.SQLiteQuery 0x14be9550
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be5088
+android.database.sqlite.SQLiteQuery 0x14be50a8
+android.database.sqlite.SQLiteDirectCursorDriver 0x14be4f08
+android.database.sqlite.SQLiteQuery 0x14be4f28
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526b298
+android.database.sqlite.SQLiteQuery 0x1526b2b8
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526afa0
+android.database.sqlite.SQLiteQuery 0x1526afc0
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526ae48
+android.database.sqlite.SQLiteQuery 0x1526ae68
+android.database.sqlite.SQLiteDirectCursorDriver 0x1526acc8
+android.database.sqlite.SQLiteQuery 0x1526ace8
+android.database.sqlite.SQLiteDirectCursorDriver 0x15269ca8
+android.database.sqlite.SQLiteQuery 0x15269cc8
+java.util.WeakHashMap$Entry 0x13504a00
+java.util.WeakHashMap$Entry 0x13504be8
+java.util.WeakHashMap$Entry 0x13505dc0
+java.util.WeakHashMap$Entry 0x13505fa8
+java.util.WeakHashMap$Entry 0x13513618
+java.util.WeakHashMap$Entry 0x13513800
+java.util.WeakHashMap$Entry 0x13514998
+java.util.WeakHashMap$Entry 0x13514b80
+Object Array 0x15016b28
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15016848
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15222f10
+java.lang.ThreadLocal$ThreadLocalMap$Entry 0x15229cb0
+
+
+
+Android Object Allocation Graph
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1506d508
+String - 'DELETE' 'FROM' 'message_base_key' 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x1522e4c0
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x1522e578
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1506d340
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1522e3e8
+String - 'SELECT' 'locale' 'FROM' 'android_metadata' 'UNION' 'SELECT' 'NULL' 'ORDER' 'BY' 'locale' 'DESC' 'LIMIT' '1' 0x7088c070
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x1522e688
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1506d360
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1506d528
+String - 'UPDATE' 'sender_keys' 'SET' 'record=?' 'WHERE' 'group_id' '=' '?' 'AND' 'sender_id' '=' '?' 'AND' 'sender_type' '=' '?' 'AND' 'device_id' '=' '?' 0x1506d488
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x1506d548
+java.util.LinkedHashMap 0x1506d2d8
+Object Array 0x1506d310
+String - 'INSERT' 'INTO' 'sender_keys(device_id,group_id,sender_id,sender_type,record,timestamp)' 'VALUES' '(?,?,?,?,?,?)' 0x1522e408
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x1522e480
+String - 'UPDATE' 'sessions' 'SET' 'record=?' 'WHERE' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 0x1522e5a0
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x1522e610
+android.database.sqlite.SQLiteConnection$PreparedStatementCache 0x1506d2a8
+android.database.sqlite.SQLiteConnection 0x1506d1c0
+dalvik.system.CloseGuard 0x705de540
+android.database.sqlite.SQLiteConnectionPool 0x15014640
+android.database.sqlite.SQLiteDatabaseConfiguration 0x1506d380
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x14a371e0
+android.database.sqlite.SQLiteConnection$OperationLog 0x1506d1f8
+java.util.WeakHashMap$Entry 0x13509540
+java.util.WeakHashMap$Entry 0x14780a00
+java.util.WeakHashMap$Entry 0x14780a60
+java.util.WeakHashMap$Entry 0x14781ab8
+java.util.WeakHashMap$Entry 0x14781b18
+java.util.WeakHashMap$Entry 0x14782bc0
+java.util.WeakHashMap$Entry 0x14782c20
+java.lang.ref.FinalizerReference 0x1508f708
+
+
+
+Android Object Allocation Graph
+here
+String - 'UPD' 0x14750918
+java.lang.StringBuilder 0x14780000
+Primitive Array [C is ['8', '\x00', '4', '\x00', '8', '\x00', '5', '\x00', '4', '\x00', '2', '\x00', '3', '\x00', '8', '\x00', '4', '\x00', '3', '\x00', '4', '\x00', '.', '\x00', '0', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14780010
+String - '84854238434.0' 0x14780040
+java.lang.Integer 0x14780060
+java.util.HashMap$KeyIterator 0x14780070
+java.lang.StringBuilder 0x14780090
+Primitive Array [C is ['m', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x147801a0
+Primitive Array [C is ['m', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x147800a0
+String - 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x14780390
+java.lang.StringBuilder 0x14780420
+Primitive Array [C is ['1', '\x00', '2', '\x00', '0', '\x00', '3', '\x00', '6', '\x00', '3', '\x00', '1', '\x00', '4', '\x00', '0', '\x00', '3', '\x00', '9', '\x00', '7', '\x00', '5', '\x00', '3', '\x00', '5', '\x00', '4', '\x00', '9', '\x00', '9', '\x00', '@', '\x00', 'g', '\x00', '.', '\x00', 'u', '\x00', 's', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14780460
+Primitive Array [C is ['\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14780430
+String - '120363140397535499@g.us' 0x147804b0
+java.lang.Object 0x147804d8
+Error 0x147804e0
+Error 0x147804e8
+String Array [Ljava.lang.String; is ['120363140397535499@g.us', '84854238434', '0', '0', '7EAB6A37AB749CC32732E896561DFCE7'] 0x147804f0
+Error 0x14780508
+android.database.sqlite.SQLiteStatement 0x14780510
+String - 'DELETE' 'FROM' 'message_base_key' 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x14780918
+Object Array 0x14780a28
+java.lang.StringBuilder 0x14780538
+Primitive Array [C is ['D', '\x00', 'E', '\x00', 'L', '\x00', 'E', '\x00', 'T', '\x00', 'E', '\x00', ' ', '\x00', 'F', '\x00', 'R', '\x00', 'O', '\x00', 'M', '\x00', ' ', '\x00', 'm', '\x00', 'e', '\x00', 's', '\x00', 's', '\x00', 'a', '\x00', 'g', '\x00', 'e', '\x00', '_', '\x00', 'b', '\x00', 'a', '\x00', 's', '\x00', 'e', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', ' ', '\x00', 'W', '\x00', 'H', '\x00', 'E', '\x00', 'R', '\x00', 'E', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00'] 0x147807c0
+Primitive Array [C is ['D', '\x00', 'E', '\x00', 'L', '\x00', 'E', '\x00', 'T', '\x00', 'E', '\x00', ' ', '\x00', 'F', '\x00', 'R', '\x00', 'O', '\x00', 'M', '\x00', ' ', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14780548
+Primitive Array [C is ['D', '\x00', 'E', '\x00', 'L', '\x00', 'E', '\x00', 'T', '\x00', 'E', '\x00', ' ', '\x00', 'F', '\x00', 'R', '\x00', 'O', '\x00', 'M', '\x00', ' ', '\x00', 'm', '\x00', 'e', '\x00', 's', '\x00', 's', '\x00', 'a', '\x00', 'g', '\x00', 'e', '\x00', '_', '\x00', 'b', '\x00', 'a', '\x00', 's', '\x00', 'e', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14780578
+java.lang.StringBuilder 0x147805c8
+Primitive Array [C is [' ', '\x00', 'W', '\x00', 'H', '\x00', 'E', '\x00', 'R', '\x00', 'E', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00'] 0x14780608
+Primitive Array [C is [' ', '\x00', 'W', '\x00', 'H', '\x00', 'E', '\x00', 'R', '\x00', 'E', '\x00', ' ', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x147805d8
+String - 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x14780728
+String - 'DEL' 0x147809d0
+android.database.sqlite.SQLiteStatementInfo 0x147809e8
+java.util.WeakHashMap$Entry 0x14780a00
+String - 'DEL' 0x14780a48
+java.util.WeakHashMap$Entry 0x14780a60
+java.lang.StringBuilder 0x14780a88
+Primitive Array [C is ['a', '\x00', 'x', '\x00', 'o', '\x00', 'l', '\x00', 'o', '\x00', 't', '\x00', 'l', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'l', '\x00', 'e', '\x00', 't', '\x00', 'e', '\x00', 'd', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'm', '\x00', 'e', '\x00', 's', '\x00', 's', '\x00', 'a', '\x00', 'g', '\x00', 'e', '\x00', ' ', '\x00', 'b', '\x00', 'a', '\x00', 's', '\x00', 'e', '\x00', ' ', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', ' ', '\x00', 'r', '\x00', 'o', '\x00', 'w', '\x00', 's', '\x00', ' ', '\x00', 'f', '\x00', 'o', '\x00', 'r', '\x00', ' ', '\x00', 'K', '\x00', 'e', '\x00', 'y', '\x00', '[', '\x00', 'i', '\x00', 'd', '\x00', '=', '\x00', '7', '\x00', 'E', '\x00', 'A', '\x00', 'B', '\x00', '6', '\x00', 'A', '\x00', '3', '\x00', '7', '\x00', 'A', '\x00', 'B', '\x00', '7', '\x00', '4', '\x00', '9', '\x00', 'C', '\x00', 'C', '\x00', '3', '\x00', '2', '\x00', '7', '\x00', '3', '\x00', '2', '\x00', 'E', '\x00', '8', '\x00', '9', '\x00', '6', '\x00', '5', '\x00', '6', '\x00', '1', '\x00', 'D', '\x00', 'F', '\x00', 'C', '\x00', 'E', '\x00', '7', '\x00', ',', '\x00', ' ', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', '=', '\x00', 't', '\x00', 'r', '\x00', 'u', '\x00', 'e', '\x00', ',', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', '=', '\x00', '3', '\x00', '6', '\x00', '3', '\x00', '1', '\x00', '4', '\x00', '0', '\x00', '3', '\x00', '9', '\x00', '7', '\x00', '5', '\x00', '3', '\x00', '5', '\x00', '4', '\x00', '9', '\x00', '9', '\x00', '@', '\x00', 'g', '\x00', '.', '\x00', 'u', '\x00', 's', '\x00', ']', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14780ed8
+Primitive Array [C is ['a', '\x00', 'x', '\x00', 'o', '\x00', 'l', '\x00', 'o', '\x00', 't', '\x00', 'l', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'l', '\x00', 'e', '\x00', 't', '\x00', 'e', '\x00', 'd', '\x00', ' ', '\x00'] 0x14780a98
+Primitive Array [C is ['a', '\x00', 'x', '\x00', 'o', '\x00', 'l', '\x00', 'o', '\x00', 't', '\x00', 'l', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'l', '\x00', 'e', '\x00', 't', '\x00', 'e', '\x00', 'd', '\x00', ' ', '\x00', '0', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14780ac8
+Primitive Array [C is ['a', '\x00', 'x', '\x00', 'o', '\x00', 'l', '\x00', 'o', '\x00', 't', '\x00', 'l', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'l', '\x00', 'e', '\x00', 't', '\x00', 'e', '\x00', 'd', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'm', '\x00', 'e', '\x00', 's', '\x00', 's', '\x00', 'a', '\x00', 'g', '\x00', 'e', '\x00', ' ', '\x00', 'b', '\x00', 'a', '\x00', 's', '\x00', 'e', '\x00', ' ', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', ' ', '\x00', 'r', '\x00', 'o', '\x00', 'w', '\x00', 's', '\x00', ' ', '\x00', 'f', '\x00', 'o', '\x00', 'r', '\x00', ' ', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14780b18
+
+
+
+Android Object Allocation Graph
+here
+java.util.concurrent.locks.AbstractQueuedSynchronizer$Node 0x14781098
+java.lang.StringBuilder 0x147810b8
+Primitive Array [C is ['8', '\x00', '4', '\x00', '8', '\x00', '5', '\x00', '4', '\x00', '2', '\x00', '3', '\x00', '8', '\x00', '4', '\x00', '3', '\x00', '4', '\x00', '.', '\x00', '0', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x147810c8
+String - '84854238434.0' 0x147810f8
+java.lang.Integer 0x14781118
+java.util.HashMap$KeyIterator 0x14781128
+java.lang.StringBuilder 0x14781148
+Primitive Array [C is ['m', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14781258
+Primitive Array [C is ['m', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14781158
+String - 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x14781448
+java.lang.StringBuilder 0x147814d8
+Primitive Array [C is ['1', '\x00', '2', '\x00', '0', '\x00', '3', '\x00', '6', '\x00', '3', '\x00', '1', '\x00', '4', '\x00', '0', '\x00', '3', '\x00', '9', '\x00', '7', '\x00', '5', '\x00', '3', '\x00', '5', '\x00', '4', '\x00', '9', '\x00', '9', '\x00', '@', '\x00', 'g', '\x00', '.', '\x00', 'u', '\x00', 's', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14781518
+Primitive Array [C is ['\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x147814e8
+String - '120363140397535499@g.us' 0x14781568
+java.lang.Object 0x14781590
+Error 0x14781598
+Error 0x147815a0
+String Array [Ljava.lang.String; is ['120363140397535499@g.us', '84854238434', '0', '0', '3A8F435DB7E15F1E39259173C2ADE9F3'] 0x147815a8
+Error 0x147815c0
+android.database.sqlite.SQLiteStatement 0x147815c8
+String - 'DELETE' 'FROM' 'message_base_key' 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x147819d0
+Object Array 0x14781ae0
+java.lang.StringBuilder 0x147815f0
+Primitive Array [C is ['D', '\x00', 'E', '\x00', 'L', '\x00', 'E', '\x00', 'T', '\x00', 'E', '\x00', ' ', '\x00', 'F', '\x00', 'R', '\x00', 'O', '\x00', 'M', '\x00', ' ', '\x00', 'm', '\x00', 'e', '\x00', 's', '\x00', 's', '\x00', 'a', '\x00', 'g', '\x00', 'e', '\x00', '_', '\x00', 'b', '\x00', 'a', '\x00', 's', '\x00', 'e', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', ' ', '\x00', 'W', '\x00', 'H', '\x00', 'E', '\x00', 'R', '\x00', 'E', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00'] 0x14781878
+Primitive Array [C is ['D', '\x00', 'E', '\x00', 'L', '\x00', 'E', '\x00', 'T', '\x00', 'E', '\x00', ' ', '\x00', 'F', '\x00', 'R', '\x00', 'O', '\x00', 'M', '\x00', ' ', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14781600
+Primitive Array [C is ['D', '\x00', 'E', '\x00', 'L', '\x00', 'E', '\x00', 'T', '\x00', 'E', '\x00', ' ', '\x00', 'F', '\x00', 'R', '\x00', 'O', '\x00', 'M', '\x00', ' ', '\x00', 'm', '\x00', 'e', '\x00', 's', '\x00', 's', '\x00', 'a', '\x00', 'g', '\x00', 'e', '\x00', '_', '\x00', 'b', '\x00', 'a', '\x00', 's', '\x00', 'e', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14781630
+java.lang.StringBuilder 0x14781680
+Primitive Array [C is [' ', '\x00', 'W', '\x00', 'H', '\x00', 'E', '\x00', 'R', '\x00', 'E', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00'] 0x147816c0
+Primitive Array [C is [' ', '\x00', 'W', '\x00', 'H', '\x00', 'E', '\x00', 'R', '\x00', 'E', '\x00', ' ', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14781690
+String - 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x147817e0
+String - 'DEL' 0x14781a88
+android.database.sqlite.SQLiteStatementInfo 0x14781aa0
+java.util.WeakHashMap$Entry 0x14781ab8
+String - 'DEL' 0x14781b00
+java.util.WeakHashMap$Entry 0x14781b18
+java.util.ArrayList 0x14781b40
+Object Array 0x14781b58
+java.lang.StringBuilder 0x14781b90
+Primitive Array [C is ['a', '\x00', 'x', '\x00', 'o', '\x00', 'l', '\x00', 'o', '\x00', 't', '\x00', 'l', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'l', '\x00', 'e', '\x00', 't', '\x00', 'e', '\x00', 'd', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'm', '\x00', 'e', '\x00', 's', '\x00', 's', '\x00', 'a', '\x00', 'g', '\x00', 'e', '\x00', ' ', '\x00', 'b', '\x00', 'a', '\x00', 's', '\x00', 'e', '\x00', ' ', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', ' ', '\x00', 'r', '\x00', 'o', '\x00', 'w', '\x00', 's', '\x00', ' ', '\x00', 'f', '\x00', 'o', '\x00', 'r', '\x00', ' ', '\x00', 'K', '\x00', 'e', '\x00', 'y', '\x00', '[', '\x00', 'i', '\x00', 'd', '\x00', '=', '\x00', '3', '\x00', 'A', '\x00', '8', '\x00', 'F', '\x00', '4', '\x00', '3', '\x00', '5', '\x00', 'D', '\x00', 'B', '\x00', '7', '\x00', 'E', '\x00', '1', '\x00', '5', '\x00', 'F', '\x00', '1', '\x00', 'E', '\x00', '3', '\x00', '9', '\x00', '2', '\x00', '5', '\x00', '9', '\x00', '1', '\x00', '7', '\x00', '3', '\x00', 'C', '\x00', '2', '\x00', 'A', '\x00', 'D', '\x00', 'E', '\x00', '9', '\x00', 'F', '\x00', '3', '\x00', ',', '\x00', ' ', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', '=', '\x00', 't', '\x00', 'r', '\x00', 'u', '\x00', 'e', '\x00', ',', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', '=', '\x00', '3', '\x00', '6', '\x00', '3', '\x00', '1', '\x00', '4', '\x00', '0', '\x00', '3', '\x00', '9', '\x00', '7', '\x00', '5', '\x00', '3', '\x00', '5', '\x00', '4', '\x00', '9', '\x00', '9', '\x00', '@', '\x00', 'g', '\x00', '.', '\x00', 'u', '\x00', 's', '\x00', ']', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14781fe0
+Primitive Array [C is ['a', '\x00', 'x', '\x00', 'o', '\x00', 'l', '\x00', 'o', '\x00', 't', '\x00', 'l', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'l', '\x00', 'e', '\x00', 't', '\x00', 'e', '\x00', 'd', '\x00', ' ', '\x00'] 0x14781ba0
+
+
+
+Android Object Allocation Graph
+here
+java.util.concurrent.locks.AbstractQueuedSynchronizer$Node 0x147821a0
+java.lang.StringBuilder 0x147821c0
+Primitive Array [C is ['8', '\x00', '4', '\x00', '8', '\x00', '5', '\x00', '4', '\x00', '2', '\x00', '3', '\x00', '8', '\x00', '4', '\x00', '3', '\x00', '4', '\x00', '.', '\x00', '0', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x147821d0
+String - '84854238434.0' 0x14782200
+java.lang.Integer 0x14782220
+java.util.HashMap$KeyIterator 0x14782230
+java.lang.StringBuilder 0x14782250
+Primitive Array [C is ['m', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14782360
+Primitive Array [C is ['m', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14782260
+String - 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x14782550
+java.lang.StringBuilder 0x147825e0
+Primitive Array [C is ['1', '\x00', '2', '\x00', '0', '\x00', '3', '\x00', '6', '\x00', '3', '\x00', '1', '\x00', '4', '\x00', '0', '\x00', '3', '\x00', '9', '\x00', '7', '\x00', '5', '\x00', '3', '\x00', '5', '\x00', '4', '\x00', '9', '\x00', '9', '\x00', '@', '\x00', 'g', '\x00', '.', '\x00', 'u', '\x00', 's', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14782620
+Primitive Array [C is ['\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x147825f0
+String - '120363140397535499@g.us' 0x14782670
+java.lang.Object 0x14782698
+Error 0x147826a0
+Error 0x147826a8
+String Array [Ljava.lang.String; is ['120363140397535499@g.us', '84854238434', '0', '0', '4FF2788AB194591E2CE24D4D116AC19E'] 0x147826b0
+Error 0x147826c8
+android.database.sqlite.SQLiteStatement 0x147826d0
+String - 'DELETE' 'FROM' 'message_base_key' 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x14782ad8
+Object Array 0x14782be8
+java.lang.StringBuilder 0x147826f8
+Primitive Array [C is ['D', '\x00', 'E', '\x00', 'L', '\x00', 'E', '\x00', 'T', '\x00', 'E', '\x00', ' ', '\x00', 'F', '\x00', 'R', '\x00', 'O', '\x00', 'M', '\x00', ' ', '\x00', 'm', '\x00', 'e', '\x00', 's', '\x00', 's', '\x00', 'a', '\x00', 'g', '\x00', 'e', '\x00', '_', '\x00', 'b', '\x00', 'a', '\x00', 's', '\x00', 'e', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', ' ', '\x00', 'W', '\x00', 'H', '\x00', 'E', '\x00', 'R', '\x00', 'E', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00'] 0x14782980
+Primitive Array [C is ['D', '\x00', 'E', '\x00', 'L', '\x00', 'E', '\x00', 'T', '\x00', 'E', '\x00', ' ', '\x00', 'F', '\x00', 'R', '\x00', 'O', '\x00', 'M', '\x00', ' ', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14782708
+Primitive Array [C is ['D', '\x00', 'E', '\x00', 'L', '\x00', 'E', '\x00', 'T', '\x00', 'E', '\x00', ' ', '\x00', 'F', '\x00', 'R', '\x00', 'O', '\x00', 'M', '\x00', ' ', '\x00', 'm', '\x00', 'e', '\x00', 's', '\x00', 's', '\x00', 'a', '\x00', 'g', '\x00', 'e', '\x00', '_', '\x00', 'b', '\x00', 'a', '\x00', 's', '\x00', 'e', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14782738
+java.lang.StringBuilder 0x14782788
+Primitive Array [C is [' ', '\x00', 'W', '\x00', 'H', '\x00', 'E', '\x00', 'R', '\x00', 'E', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'c', '\x00', 'i', '\x00', 'p', '\x00', 'i', '\x00', 'e', '\x00', 'n', '\x00', 't', '\x00', '_', '\x00', 't', '\x00', 'y', '\x00', 'p', '\x00', 'e', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'v', '\x00', 'i', '\x00', 'c', '\x00', 'e', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', ' ', '\x00', '!', '\x00', '=', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'A', '\x00', 'N', '\x00', 'D', '\x00', ' ', '\x00', 'm', '\x00', 's', '\x00', 'g', '\x00', '_', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', '_', '\x00', 'i', '\x00', 'd', '\x00', ' ', '\x00', '=', '\x00', ' ', '\x00', '?', '\x00'] 0x147827c8
+Primitive Array [C is [' ', '\x00', 'W', '\x00', 'H', '\x00', 'E', '\x00', 'R', '\x00', 'E', '\x00', ' ', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x14782798
+String - 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x147828e8
+String - 'DEL' 0x14782b90
+android.database.sqlite.SQLiteStatementInfo 0x14782ba8
+java.util.WeakHashMap$Entry 0x14782bc0
+String - 'DEL' 0x14782c08
+java.util.WeakHashMap$Entry 0x14782c20
+java.util.ArrayList 0x14782c48
+Object Array 0x14782c60
+java.lang.StringBuilder 0x14782c98
+Primitive Array [C is ['a', '\x00', 'x', '\x00', 'o', '\x00', 'l', '\x00', 'o', '\x00', 't', '\x00', 'l', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'l', '\x00', 'e', '\x00', 't', '\x00', 'e', '\x00', 'd', '\x00', ' ', '\x00', '0', '\x00', ' ', '\x00', 'm', '\x00', 'e', '\x00', 's', '\x00', 's', '\x00', 'a', '\x00', 'g', '\x00', 'e', '\x00', ' ', '\x00', 'b', '\x00', 'a', '\x00', 's', '\x00', 'e', '\x00', ' ', '\x00', 'k', '\x00', 'e', '\x00', 'y', '\x00', ' ', '\x00', 'r', '\x00', 'o', '\x00', 'w', '\x00', 's', '\x00', ' ', '\x00', 'f', '\x00', 'o', '\x00', 'r', '\x00', ' ', '\x00', 'K', '\x00', 'e', '\x00', 'y', '\x00', '[', '\x00', 'i', '\x00', 'd', '\x00', '=', '\x00', '4', '\x00', 'F', '\x00', 'F', '\x00', '2', '\x00', '7', '\x00', '8', '\x00', '8', '\x00', 'A', '\x00', 'B', '\x00', '1', '\x00', '9', '\x00', '4', '\x00', '5', '\x00', '9', '\x00', '1', '\x00', 'E', '\x00', '2', '\x00', 'C', '\x00', 'E', '\x00', '2', '\x00', '4', '\x00', 'D', '\x00', '4', '\x00', 'D', '\x00', '1', '\x00', '1', '\x00', '6', '\x00', 'A', '\x00', 'C', '\x00', '1', '\x00', '9', '\x00', 'E', '\x00', ',', '\x00', ' ', '\x00', 'f', '\x00', 'r', '\x00', 'o', '\x00', 'm', '\x00', '_', '\x00', 'm', '\x00', 'e', '\x00', '=', '\x00', 't', '\x00', 'r', '\x00', 'u', '\x00', 'e', '\x00', ',', '\x00', ' ', '\x00', 'r', '\x00', 'e', '\x00', 'm', '\x00', 'o', '\x00', 't', '\x00', 'e', '\x00', '_', '\x00', 'j', '\x00', 'i', '\x00', 'd', '\x00', '=', '\x00', '3', '\x00', '6', '\x00', '3', '\x00', '1', '\x00', '4', '\x00', '0', '\x00', '3', '\x00', '9', '\x00', '7', '\x00', '5', '\x00', '3', '\x00', '5', '\x00', '4', '\x00', '9', '\x00', '9', '\x00', '@', '\x00', 'g', '\x00', '.', '\x00', 'u', '\x00', 's', '\x00', ']', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00', '\x00'] 0x147830e8
+Primitive Array [C is ['a', '\x00', 'x', '\x00', 'o', '\x00', 'l', '\x00', 'o', '\x00', 't', '\x00', 'l', '\x00', ' ', '\x00', 'd', '\x00', 'e', '\x00', 'l', '\x00', 'e', '\x00', 't', '\x00', 'e', '\x00', 'd', '\x00', ' ', '\x00'] 0x14782ca8
+
+
+
+Android Object Allocation Graph
+here
+java.util.LinkedHashMap$LinkedEntrySet 0x1522e930
+Object Array 0x1522e940
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1522f150
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1522f170
+Primitive Array [I is [-589538220] 0x1522dfe0
+Primitive Array [I is [-334746180, -589538188] 0x1522dff0
+Primitive Array [I is [-589538220] 0x1522e008
+Primitive Array [I is [-334746180, -589538188] 0x1522e018
+Primitive Array [I is [-589538220] 0x1522e030
+Primitive Array [I is [-334746180, -589538188] 0x1522e040
+Primitive Array [I is [-589538220] 0x1522e058
+android.database.sqlite.SQLiteConnection$Operation 0x1522e068
+java.util.ArrayList 0x1522e8d0
+String - 'UPDATE' 'sender_keys' 'SET' 'record=?' 'WHERE' 'group_id' '=' '?' 'AND' 'sender_id' '=' '?' 'AND' 'sender_type' '=' '?' 'AND' 'device_id' '=' '?' 0x13518140
+android.database.sqlite.SQLiteConnection$Operation 0x1522e0a0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e0d8
+java.util.ArrayList 0x14a377f8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e110
+android.database.sqlite.SQLiteConnection$Operation 0x1522e148
+java.util.ArrayList 0x1522e800
+String - 'DELETE' 'FROM' 'message_base_key' 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x14a376e0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e180
+java.util.ArrayList 0x14a376c8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e1b8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e1f0
+java.util.ArrayList 0x1522e788
+String - 'UPDATE' 'sender_keys' 'SET' 'record=?' 'WHERE' 'group_id' '=' '?' 'AND' 'sender_id' '=' '?' 'AND' 'sender_type' '=' '?' 'AND' 'device_id' '=' '?' 0x14a375e8
+android.database.sqlite.SQLiteConnection$Operation 0x1522e228
+android.database.sqlite.SQLiteConnection$Operation 0x1522e260
+java.util.ArrayList 0x14a37450
+android.database.sqlite.SQLiteConnection$Operation 0x1522e298
+java.util.ArrayList 0x1522e738
+android.database.sqlite.SQLiteConnection$Operation 0x1522e2d0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e308
+java.util.ArrayList 0x1522e6b0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e340
+android.database.sqlite.SQLiteConnection$Operation 0x1522e378
+android.database.sqlite.SQLiteConnection$Operation 0x1522e3b0
+java.util.ArrayList 0x14a37278
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1522e3e8
+
+
+
+Android Object Allocation Graph
+here
+android.database.sqlite.SQLiteConnection$Operation 0x1522e228
+android.database.sqlite.SQLiteConnection$Operation 0x1522e260
+java.util.ArrayList 0x14a37450
+android.database.sqlite.SQLiteConnection$Operation 0x1522e298
+java.util.ArrayList 0x1522e738
+android.database.sqlite.SQLiteConnection$Operation 0x1522e2d0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e308
+java.util.ArrayList 0x1522e6b0
+android.database.sqlite.SQLiteConnection$Operation 0x1522e340
+android.database.sqlite.SQLiteConnection$Operation 0x1522e378
+android.database.sqlite.SQLiteConnection$Operation 0x1522e3b0
+java.util.ArrayList 0x14a37278
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1522e3e8
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x1522e688
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1506d360
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1506d508
+String - 'INSERT' 'INTO' 'sender_keys(device_id,group_id,sender_id,sender_type,record,timestamp)' 'VALUES' '(?,?,?,?,?,?)' 0x1522e408
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x1522e480
+java.util.ArrayList 0x1522e4a8
+Object Array 0x1522e650
+String - 'DELETE' 'FROM' 'message_base_key' 'WHERE' 'msg_key_remote_jid' '=' '?' 'AND' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 'AND' 'msg_key_from_me' '!=' '0' 'AND' 'msg_key_id' '=' '?' 0x1522e4c0
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x1522e578
+String - 'UPDATE' 'sessions' 'SET' 'record=?' 'WHERE' 'recipient_id' '=' '?' 'AND' 'recipient_type' '=' '?' 'AND' 'device_id' '=' '?' 0x1522e5a0
+android.database.sqlite.SQLiteConnection$PreparedStatement 0x1522e610
+java.lang.Object 0x1522e638
+Error 0x1522e640
+Object Array 0x1522e6c8
+String - '120363140397535499@g.us' 0x1522e700
+java.lang.Long 0x1522e728
+Object Array 0x1522e750
+Object Array 0x1522e7a0
+String - '120363140397535499@g.us' 0x1522e7d8
+Object Array 0x1522e898
+String - 'UPDATE' 'sender_keys' 'SET' 'record=?' 'WHERE' 'group_id' '=' '?' 'AND' 'sender_id' '=' '?' 'AND' 'sender_type' '=' '?' 'AND' 'device_id' '=' '?' 0x1522e818
+Object Array 0x1522e8e8
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1522f1e0
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1522f288
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1522f330
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1522f368
+java.util.LinkedHashMap$LinkedHashMapEntry 0x1522f3d8
